@@ -28,6 +28,7 @@
 		{"predicate":{"custom_model_data":22}, "model": "item/model_custom/deco/bathroom/toilette"},
 		{"predicate":{"custom_model_data":23}, "model": "item/model_custom/deco/bathroom/toilette/toilette1"},
 		{"predicate":{"custom_model_data":24}, "model": "item/model_custom/deco/bathroom/toilette/toilette2"},
+		{"predicate":{"custom_model_data":25}, "model": "item/model_custom/deco/bathroom/toilette/toilette3"},
 		{"predicate":{"custom_model_data":28}, "model": "item/model_custom/game/power/invisible"},
 		{"predicate":{"custom_model_data":29}, "model": "item/model_custom/game/pacman/pacman"},
 		{"predicate":{"custom_model_data":30}, "model": "item/model_custom/game/pacman/pacman1"},
