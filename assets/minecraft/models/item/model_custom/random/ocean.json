@@ -1,0 +1,22 @@
+{
+	"credit": "Made by Evan",
+	"textures": {
+		"0": "random/ocean",
+		"particle": "random/ocean"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 9, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"fixed": {
+			"translation": [0, 16, 0],
+			"scale": [4, 4, 0]
+		}
+	}
+}
