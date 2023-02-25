@@ -1,0 +1,9 @@
+{
+	"parent": "item/model_custom/game/hat/evanredcoal",
+	"__comment": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"texture": "hat/redcoal",
+		"deuxieme" : "hat/evan"
+	},
+	"gui_light" : "front"
+}

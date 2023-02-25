@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "hat",
+      "prefix": "hat/"
+    },
+    {
+      "type": "directory",
+      "source": "minimap",
+      "prefix": "minimap/"
+    },
+    {
+      "type": "directory",
+      "source": "random",
+      "prefix": "random/"
+    },
+    {
+      "type": "directory",
+      "source": "tp",
+      "prefix": "tp/"
+    }
+  ]
+}

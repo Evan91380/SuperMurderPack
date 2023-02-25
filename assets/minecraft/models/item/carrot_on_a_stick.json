@@ -1,0 +1,64 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+	"gui_light" : "front",
+	"overrides":[
+		{"predicate":{"custom_model_data":-1403}, "model": "item/model_custom/game/knife/custom/ground/breadbug"},
+		{"predicate":{"custom_model_data":-404}, "model": "item/model_custom/game/knife/custom/ground/bigblade"},
+		{"predicate":{"custom_model_data":-403}, "model": "item/model_custom/game/knife/custom/ground/bread"},
+		{"predicate":{"custom_model_data":-402}, "model": "item/model_custom/game/knife/custom/ground/batarang"},
+		{"predicate":{"custom_model_data":-401}, "model": "item/model_custom/game/knife/custom/ground/hiddenblade"},
+		{"predicate":{"custom_model_data":-400}, "model": "item/model_custom/game/knife/custom/ground/gold"},
+
+
+		{"predicate":{"custom_model_data":-1}, "model": "item/model_custom/game/knife/knife_on_ground"},
+		{"predicate":{"custom_model_data":0}, "model": "item/model_custom/game/knife/knife"},
+		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/game/power/taser"},
+		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/game/power/seringue"},
+		{"predicate":{"custom_model_data":3}, "model": "item/model_custom/game/power/fantome"},
+		{"predicate":{"custom_model_data":4}, "model": "item/model_custom/game/power/teleporte/teleporte1"},
+		{"predicate":{"custom_model_data":5}, "model": "item/model_custom/game/power/teleporte/teleporte2"},
+		{"predicate":{"custom_model_data":6}, "model": "item/model_custom/game/power/teleporte/teleporte3"},
+		{"predicate":{"custom_model_data":7}, "model": "item/model_custom/game/power/teleporte/teleporte4"},
+		{"predicate":{"custom_model_data":8}, "model": "item/model_custom/game/power/transfer"},
+		{"predicate":{"custom_model_data":10}, "model": "item/model_custom/game/flingue/gun"},
+		{"predicate":{"custom_model_data":11}, "model": "item/model_custom/game/flingue/gun2"},
+		{"predicate":{"custom_model_data":12}, "model": "item/model_custom/game/flingue/balle"},
+		{"predicate":{"custom_model_data":13}, "model": "item/model_custom/game/flingue/chargeur"},
+		{"predicate":{"custom_model_data":20}, "model": "item/flint_and_steel"},
+		{"predicate":{"custom_model_data":21}, "model": "item/model_custom/game/shop/shield"},
+		{"predicate":{"custom_model_data":22}, "model": "item/model_custom/game/shop/piege_a_ours"},
+
+
+
+		{"predicate":{"custom_model_data":300}, "model": "item/model_custom/game/tp/rick"},
+		{"predicate":{"custom_model_data":301}, "model": "item/model_custom/game/tp/nokia3310"},
+		
+		
+		{"predicate":{"custom_model_data":400}, "model": "item/model_custom/game/knife/custom/gold"},
+		{"predicate":{"custom_model_data":401}, "model": "item/model_custom/game/knife/custom/hiddenblade"},
+		{"predicate":{"custom_model_data":402}, "model": "item/model_custom/game/knife/custom/batarang"},
+		{"predicate":{"custom_model_data":403}, "model": "item/model_custom/game/knife/custom/bread"},
+		{"predicate":{"custom_model_data":404}, "model": "item/model_custom/game/knife/custom/bigblade"},
+		{"predicate":{"custom_model_data":405}, "model": "item/model_custom/game/knife/custom/wolverine"},
+		{"predicate":{"custom_model_data":406}, "model": "item/model_custom/game/knife/custom/tronconneuse"},
+
+
+
+		{"predicate":{"custom_model_data":500}, "model": "item/model_custom/game/flingue/custom/gold"},
+		{"predicate":{"custom_model_data":501}, "model": "item/model_custom/game/flingue/custom/hitman"},
+		{"predicate":{"custom_model_data":502}, "model": "item/model_custom/game/flingue/custom/numberone"},
+		{"predicate":{"custom_model_data":503}, "model": "item/model_custom/game/flingue/custom/bfg"},
+
+
+
+		{"predicate":{"custom_model_data":1000}, "model": "item/model_custom/deco/fleche/croix"},
+		{"predicate":{"custom_model_data":1403}, "model": "item/model_custom/game/knife/custom/breadbug"},
+		{"predicate":{"custom_model_data":1500}, "model": "item/model_custom/game/flingue/custom/unload/gold"},
+		{"predicate":{"custom_model_data":1501}, "model": "item/model_custom/game/flingue/custom/unload/hitman"},
+		{"predicate":{"custom_model_data":1502}, "model": "item/model_custom/game/flingue/custom/unload/numberone"},
+		{"predicate":{"custom_model_data":1503}, "model": "item/model_custom/game/flingue/custom/unload/bfg"}
+	]
+}

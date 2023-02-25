@@ -1,0 +1,208 @@
+{
+
+	"supermurder.gun.shot": {
+  
+	  "sounds": [
+		{
+		  "name": "custom/gun/shot",
+		  "attenuation_distance" : 12
+		}
+		]
+  
+	},
+	"supermurder.gun.recharg": {
+  
+	  "sounds": [
+		{
+		  "name": "custom/gun/recharg" 
+		}
+		]
+  
+	},
+	"supermurder.snap": {
+  
+	  "sounds": [
+		{
+		  "name": "custom/snap" 
+		}
+		]
+  
+	},
+	  "supermurder.mine.explode": {
+  
+	  "sounds": [
+		{
+		  "name": "custom/mine/explose" 
+		}
+		]
+  
+	},
+	  "supermurder.oof": {
+  
+	  "sounds": [
+		{
+		  "name": "custom/oof" 
+		}
+		]
+  
+	}, 
+	  "supermurder.pacman.intro": {
+  
+	  "sounds": [
+		{
+		  "name": "custom/pacman/intro" 
+		}
+		]
+  
+	}, 
+	  "supermurder.pacman.pacman": {
+  
+	  "sounds": [
+		{
+		  "name": "custom/pacman/pacman",
+		  "attenuation_distance" : 12
+		}
+		]
+  
+	}, 
+	  "supermurder.pacman.pacman1": {
+  
+	  "sounds": [
+		{
+		  "name": "custom/pacman/pacman1",
+		  "attenuation_distance" : 12
+		}
+		]
+  
+	}, 
+	  "supermurder.pacman.death": {
+  
+	  "sounds": [
+		{
+		  "name": "custom/pacman/death"
+		}
+		]
+  
+	},
+	"supermurder.tv.bip":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/bip"
+		  }
+	  ]
+	},
+	"supermurder.tv.bn.kill":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/breaking_news_kill"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.oceanlab":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/jt_oceanlab"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.seisme":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/jt_seisme"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.daytime.morning":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/time_of_day/jt_good_morning"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.daytime.evening":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/time_of_day/jt_good_evening"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.daytime.afternoon":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/time_of_day/jt_good_afternoon"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.day.friday":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/day/friday"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.day.monday":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/day/monday"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.day.saturday":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/day/saturday"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.day.sunday":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/day/sunday"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.day.thursday":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/day/thursday"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.day.tuedsday":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/day/tuesday"
+		  }
+	  ]
+	},
+	"supermurder.tv.jt.day.wednesday":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/jt/day/wednesday"
+		  }
+	  ]
+	},
+	"supermurder.tv.pub.rick":{
+  
+	  "sounds": [
+		  {
+			  "name": "custom/tv/pub/rick"
+		  }
+	  ]
+	}
+	
+   }

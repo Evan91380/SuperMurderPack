@@ -1,0 +1,8 @@
+{
+    "parent": "item/model_custom/deco/tech/tele",
+    "textures": {
+		"texture": "block/tech/ecran"
+	},
+  "gui_light" : "front"
+    
+}

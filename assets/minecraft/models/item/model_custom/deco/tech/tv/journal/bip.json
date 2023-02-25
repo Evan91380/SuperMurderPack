@@ -1,0 +1,7 @@
+{
+    "parent": "item/model_custom/deco/tech/tele",
+    "textures": {
+		"texture": "block/tech/bip"
+	}
+    
+}

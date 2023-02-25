@@ -1,0 +1,8 @@
+{
+	"parent": "item/model_custom/easter/egg1",
+	"credit": "Made by Poulinière with Blockbench",
+	"textures": {
+		"0": "block/egg/egg2"
+	},
+	"gui_light" : "front"
+}

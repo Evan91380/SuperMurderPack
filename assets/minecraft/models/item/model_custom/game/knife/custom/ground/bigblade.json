@@ -1,0 +1,11 @@
+{
+	"parent" : "item/model_custom/game/knife/custom/bigblade",
+	"__comment": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
+	"display": {
+		"head": {
+			"rotation":  [ 180, 45, 0 ],
+			"translation":  [ 0, -42, 0 ],
+			"scale":  [ 1.3, 1.3, 1.3 ]
+		}
+	}
+}

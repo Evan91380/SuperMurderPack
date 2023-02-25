@@ -1,0 +1,10 @@
+{
+    "parent": "block/stone",
+	"overrides":[
+		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/advancement/1"},
+		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/image/1"},
+		{"predicate":{"custom_model_data":3}, "model": "item/model_custom/image/2"},
+		{"predicate":{"custom_model_data":4}, "model": "item/model_custom/advancement/2"},
+		{"predicate":{"custom_model_data":5}, "model": "item/model_custom/advancement/3"}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"parent" : "item/model_custom/game/knife/knife",
+	"__comment": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 90, 0, 0 ],
+			"translation":  [ 0, 2.7826, 0.6956 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ 48, -2, 10 ],
+			"translation":  [ -0.695, 4.1739, 2.7826 ]
+		},
+		"gui": {
+			"rotation":  [ 63, 43, -63 ],
+			"translation":  [ -0.695, 0, 0 ]
+		},
+		"head": {
+			"rotation":  [ 180, 0, 90 ],
+			"translation":  [ 0, -31, 0 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		},
+		"ground": {
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		}
+	}
+}

@@ -1,0 +1,1942 @@
+{
+  "Rules :\\nThe dead don't speak. \\nAny cheats or unfair map modes are forbidden. \\n(You can use the in game minimap that we added) \\n- - We wish you a good game - -": {
+    "en": "§6§l§n§oRules :\\n§7§oThe dead §c§odon't§7§o speak. \\n§7§oAny cheats or §8§ounfair §7§omap modes are §c§oforbidden. \\n§7§o(You can use the in game minimap that we added) \\n§2- - We wish you a good game - -",
+    "fr": "§6§l§n§oRègles :\\n§7§oLes morts ne parlent §c§opas.\\n§7§oTout cheats ou mode de map §8§oinjuste §7§osont §c§ointerdite. \\n§7§o(Vous pouvez utilisé la minimap en jeu que nous avons ajouté) \\n§2- - Nous vous souhaitons un bon jeu - -"
+  },
+  "Don't forget the ressource pack!": {
+    "en": null,
+    "fr": null
+  },
+  "Click here to download the ressource pack!": {
+    "en": null,
+    "fr": null
+  },
+  "": {
+    "en": null,
+    "fr": null
+  },
+  "menu.back": {
+    "en": "§4Back",
+    "fr": "§4Retour"
+  },
+  "menu.tellraw.op": {
+    "en": "\\n§4§l[OP Check] §7If you are §4OP§7, click",
+    "fr": "\\n§4§l[OP Check] §7Si vous êtes §4OP§7, cliquez"
+  },
+  "menu.tellraw.op2": {
+    "en": "§4§l§nhere",
+    "fr": "§4§l§nici"
+  },
+  "menu.actionbar.display": {
+    "en": "§aOpen your inventory to access the menu",
+    "fr": "§aOuvrez votre inventaire pour accéder au menu"
+  },
+  "menu.stat1": {
+    "en": "§aStats of",
+    "fr": "§aStats de"
+  },
+  "menu.stat2": {
+    "en": "\\n§aBest parkour time:",
+    "fr": "\\n§aMeilleur temps au parcours:"
+  },
+  "menu.stat3": {
+    "en": "\\n§aParkour conquered",
+    "fr": "\\n§aParcours fini"
+  },
+  "menu.stat4": {
+    "en": "§atimes\\n§aGold ingots picked up:",
+    "fr": "§afois\\n§aGold ramassés:"
+  },
+  "menu.stat5": {
+    "en": "\\n§aGames played:",
+    "fr": "\\n§aParties effectués:"
+  },
+  "menu.stat6": {
+    "en": "\\n§aGames won:",
+    "fr": "\\n§aParties gagnées:"
+  },
+  "menu.stat7": {
+    "en": "\\n§aBystander since",
+    "fr": "\\n§aInnocent depuis"
+  },
+  "menu.stat8": {
+    "en": "§agames \\n§aPlayer killed (as a murderer):",
+    "fr": "§aparties\\n§aJoueurs tués (en tant que meurtrier):"
+  },
+  "menu.stat9": {
+    "en": "\\n§aInnocent killed (as a detective):",
+    "fr": "\\n§aInnocents tués (en tant que détective):"
+  },
+  "text.winner": {
+    "en": "Winner :",
+    "fr": "Gagnant :"
+  },
+  "jump.finish": {
+    "en": "finished the jump in",
+    "fr": "a fini le jump en"
+  },
+  "jump.finish2": {
+    "en": "Your time:",
+    "fr": "Votre temps:"
+  },
+  "jump.finish3": {
+    "en": "s!\\nPersonal best time:",
+    "fr": "s!\\nVotre meilleur temps:"
+  },
+  "jump.finish4": {
+    "en": "s!\\nNew personal best time!",
+    "fr": "s!\\nNouveau meilleur temps!"
+  },
+  "lobby.where": {
+    "en": "§4§lWhere are you going?",
+    "fr": "§4§lOù comptiez-vous aller?"
+  },
+  "button.notenough": {
+    "en": "§c§lThere are not enough players.",
+    "fr": "§c§lIl n'y a pas assez de joueurs!"
+  },
+  "button.tomuch": {
+    "en": "§c§lThere are too many players.",
+    "fr": "§c§lIl y a trop de joueurs!"
+  },
+  "text.themap": {
+    "en": "§6The map",
+    "fr": "§6La map"
+  },
+  "text.mapchoose": {
+    "en": "§6was choosen",
+    "fr": "§6a été séléctionné"
+  },
+  "text.randommap": {
+    "en": "§6Map set to §a§o§lrandom",
+    "fr": "§6La map a été mis en §a§o§laléatoire"
+  },
+  "last.bossbar.1": {
+    "en": "§cThe last player is",
+    "fr": "§cLe dernier joueur est à"
+  },
+  "last.bossbar.2": {
+    "en": "§c blocks away",
+    "fr": "§c blocks de distance"
+  },
+  "last.bossbar.3": {
+    "en": "§cThe last player is more than 100 blocks away",
+    "fr": "§cLe dernier joueur est à plus de 100 blocks de distance"
+  },
+  "timer.bossbar": {
+    "en": "§cTime left:",
+    "fr": "§cTemps restant:"
+  },
+  "text.innocent": {
+    "en": "§aYou are a bystander",
+    "fr": "§aVous êtes un innocent"
+  },
+  "text.innocent.goal": {
+    "en": "§6GOAL: §eStay alive",
+    "fr": "§6OBJECTIF: §eSurvivez"
+  },
+  "text.detective": {
+    "en": "§9You are the detective",
+    "fr": "§9Vous êtes le détective"
+  },
+  "text.detective.goal": {
+    "en": "§6GOAL: §eFind the murderer and kill him",
+    "fr": "§6OBJECTIF: §eTrouvez le meurtrier et tuez le"
+  },
+  "text.murderer": {
+    "en": "§cYou are the murderer",
+    "fr": "§cVous êtes le meurtrier"
+  },
+  "text.murderer.goal": {
+    "en": "§6GOAL: §eKill them all!",
+    "fr": "§6OBJECTIF: §eTuez les tous!"
+  },
+  "text.power.ghost": {
+    "en": "\\n§7You are the §a§l§oghost§7. \\n§7You have the single-use ability to make yourself §a§l§oinvisible for 10 seconds.",
+    "fr": "\\n§7Vous êtes le §a§l§ofantôme§7. \\n§7Vous avez la capacité à usage unique de vous rendre §a§l§oinvisible pendant 10 secondes."
+  },
+  "text.power.terrorist": {
+    "en": "\\n§7You are the §6§l§osuicidal§7! \\n§7You have the particularity of §6§l§otaking everyone around you in your grave.",
+    "fr": "\\n§7Vous êtes le §6§l§osuicidaire§7! \\n§7Vous avez la particularité d'§6§l§oemmener toutes personnes vous entourant dans votre tombe."
+  },
+  "text.power.angel": {
+    "en": "\\n§7You are the §b§l§oangel§7. \\n§7In your death, you will §b§l§opoint the way to your murderer.",
+    "fr": "\\n§7Vous êtes l'§b§l§oange§7. \\n§7Dans votre mort, vous §b§l§oindiquerez le chemin vers votre meurtrier."
+  },
+  "text.power.drugged": {
+    "en": "\\n§7You are the §5§l§odrug addict§7. \\n§5§l§oExceed your limits§7, even if it involves side effects.",
+    "fr": "\\n§7Vous êtes le §5§l§odrogué§7. \\n§5§l§oDépassez vos limites§7, même si cela implique des effets secondaires."
+  },
+  "text.power.tase": {
+    "en": "\\n§7You have a §e§l§otaser§7.\\n§7Single-use but helpful in decisive moments.",
+    "fr": "\\n§7Vous avez un §e§l§otaser§7.\\n§7A usage unique certe mais utile dans les moments décisifs."
+  },
+  "text.power.thief": {
+    "en": "\\n§7You are the §b§l§othief§7. \\n§7You can steal the power of a dead",
+    "fr": "\\n§7Vous êtes le §b§l§ovoleur§7. \\n§7Vous pouvez voler un pouvoir sur un cadavre."
+  },
+  "text.win": {
+    "en": "§aVictory",
+    "fr": "§aVictoire"
+  },
+  "text.lose": {
+    "en": "§cDefeat",
+    "fr": "§cDéfaite"
+  },
+  "text.time.murder": {
+    "en": "§6The Murderer ran out of time!",
+    "fr": "§6Le meurtrier est arrivé à court de temps!"
+  },
+  "text.time.murder2": {
+    "en": "§6You ran out of time!",
+    "fr": "§6Vous êtes à court de temps!"
+  },
+  "text.murder.win1": {
+    "en": "§6The Murderer killed everyone",
+    "fr": "§6Le meurtrier a tuer tout le monde!"
+  },
+  "text.murder.win2": {
+    "en": "§6You killed everyone !",
+    "fr": "§6Vous avez tué tout le monde!"
+  },
+  "text.murder.die": {
+    "en": "§6The Murderer has been stopped!",
+    "fr": "§6Le meurtrier s'est fait arrêté!"
+  },
+  "text.murder.die2": {
+    "en": "§6You have been stopped!",
+    "fr": "§6Vous venez de vous faire arrêter !"
+  },
+  "text.die": {
+    "en": "You died!",
+    "fr": "Vous êtes mort!"
+  },
+  "text.die.murder": {
+    "en": "The Murderer stabbed you.",
+    "fr": "Le meurtrier vous a poignardé."
+  },
+  "text.die.player": {
+    "en": "A bystander killed you.",
+    "fr": "Un innocent vous a tué."
+  },
+  "text.event.thunder": {
+    "en": "Thunder.",
+    "fr": "L'orage."
+  },
+  "text.event.slime": {
+    "en": "Several slimes appeared, they're cute <3",
+    "fr": "Des slimes sont apparu, ils sont trop mimi <3"
+  },
+  "text.event.sheep": {
+    "en": "Explosive sheeps have appeared, run if you see one of it!",
+    "fr": "Des moutons explosif sont aparru, si vous en voyez un, courez!"
+  },
+  "text.event.mine": {
+    "en": "Several landmines have appeared, watch your steps!",
+    "fr": "Des mines sont apparu, attention ou vous marchez!"
+  },
+  "text.event.tp": {
+    "en": "Players have swaped position.",
+    "fr": "Les joueurs se sont échangé les positions."
+  },
+  "text.event.acidrain": {
+    "en": "An acid rain is coming.",
+    "fr": "Une pluie acide arrive!"
+  },
+  "text.event.gold": {
+    "en": "Gold x2.",
+    "fr": "Gold doublé"
+  },
+  "text.event.acidrain1": {
+    "en": "§4Don't stay under the acid rain, take cover!",
+    "fr": "§4Ne restez pas sous cet pluie acide , allez à couvert!"
+  },
+  "text.event.acidrain2": {
+    "en": "§4You got sick.",
+    "fr": "§4Vous devenez malade."
+  },
+  "text.event.acidrain3": {
+    "en": "§4You are temporarily blind.",
+    "fr": "§4Vous devenez temporairement aveugle."
+  },
+  "text.event.blackhole": {
+    "en": "§4§l§n⚠ Alert ⚠ A black hole appear!",
+    "fr": "§4§l§n⚠ Alerte ⚠ Un trou noir apparait!"
+  },
+  "text.event.thanos": {
+    "en": "§4§l§n⚠ Alert ⚠ Half of players disappear!",
+    "fr": "§4§l§n⚠ Alerte ⚠ La moitié des joueurs disparaissent!"
+  },
+  "text.murder.knife1": {
+    "en": "§eThe murderer will receive his knife in",
+    "fr": "§eLe meurtrier recevra son couteau dans"
+  },
+  "text.murder.knife1s1": {
+    "en": "§eseconds.",
+    "fr": "§esecondes."
+  },
+  "text.murder.knife1s2": {
+    "en": "§esecond.",
+    "fr": "§eseconde."
+  },
+  "text.murder.knife2": {
+    "en": "§eThe murderer has received his knife!",
+    "fr": "§eLe meurtrier a reçu son couteau!"
+  },
+  "text.60left": {
+    "en": "60 seconds left",
+    "fr": "60 secondes restantes"
+  },
+  "text.60left2": {
+    "en": "before the police arrives!",
+    "fr": "Avant que la police n'arrive!"
+  },
+  "text.nocamp": {
+    "en": "§4§lPlease stay away from the gun.",
+    "fr": "§4§lVeuillez rester à l'écart de l'arme."
+  },
+  "text.nocamp2": {
+    "en": "§4§lYou start to feel uncomfortable.",
+    "fr": "§4§lVous commencez à vous sentir mal à l'aise."
+  },
+  "menu.tuto.name": {
+    "en": "§9Tutorial",
+    "fr": "§9Tutoriel"
+  },
+  "menu.tuto.desc": {
+    "en": "Click to open the tutorial tab",
+    "fr": "Cliquez pour ouvrir l'onglet tutoriel"
+  },
+  "menu.stats.name": {
+    "en": "§9Stats",
+    "fr": "§9Statistiques"
+  },
+  "menu.stats.desc": {
+    "en": "Click to display your personal stats",
+    "fr": "Cliquez pour afficher vos stats personnelles"
+  },
+  "menu.maps.name": {
+    "en": "§6Maps",
+    "fr": "§6Cartes"
+  },
+  "menu.maps.desc": {
+    "en": "Click to open the map menu",
+    "fr": "Cliquez pour ouvrir le menu des cartes"
+  },
+  "menu.config.name": {
+    "en": "§6Config",
+    "fr": "§6Config"
+  },
+  "menu.config.desc": {
+    "en": "Click to open the config menu",
+    "fr": "Cliquez pour ouvrir le menu de configuration"
+  },
+  "menu.gojump.name": {
+    "en": "§6Parkour",
+    "fr": "§6Parcours"
+  },
+  "menu.gojump.desc": {
+    "en": "Click to parkour",
+    "fr": "Cliquez pour aller au jump"
+  },
+  "menu.backtolobby.name": {
+    "en": "§6Back to the lobby",
+    "fr": "§6Retour au lobby"
+  },
+  "menu.backtolobby.desc": {
+    "en": "Click to go to the lobby",
+    "fr": "Cliquez pour revenir au lobby"
+  },
+  "menu.player.name": {
+    "en": "§7You are a player",
+    "fr": "§7Vous êtes un joueur"
+  },
+  "menu.player.desc": {
+    "en": "Click to be a spectator",
+    "fr": "Cliquez pour devenir spectateur"
+  },
+  "menu.specta.name": {
+    "en": "§7You are a spectator",
+    "fr": "§7Vous êtes un spectateur"
+  },
+  "menu.specta.desc": {
+    "en": "Click to be a player",
+    "fr": "Cliquez pour devenir joueur"
+  },
+  "menu.builder.name": {
+    "en": "§cBuild mode",
+    "fr": "§cMode construction"
+  },
+  "menu.builder.desc": {
+    "en": "§4Open settings > debug menu to be a player",
+    "fr": "§4Ouvrez config > menu débug pour être un joueur"
+  },
+  "Ressource pack": {
+    "en": "Ressource pack",
+    "fr": "Pack de ressources"
+  },
+  "Click to get the link": {
+    "en": "Click to get the link",
+    "fr": "Cliquez pour obtenir le lien"
+  },
+  "Click here to download the ressource pack": {
+    "en": "Click here to download the ressource pack",
+    "fr": "Cliquez ici pour télécharger le pack de ressource"
+  },
+  "If you have any bug/suggestion, you can come to our discord": {
+    "en": "If you have any bug/suggestion, you can come to our discord",
+    "fr": "Si vous avez le moindre bug/suggestion, vous pouvez venir sur notre discord"
+  },
+  "menu.minimap.name": {
+    "en": "Minimap",
+    "fr": "Minimap"
+  },
+  "menu.minimap.desc": {
+    "en": "Click to display the minimap config",
+    "fr": "Cliquez pour afficher les options de la minimap"
+  },
+  "menu.credits.name": {
+    "en": "§9Credits",
+    "fr": "§9Crédits"
+  },
+  "menu.credits.desc": {
+    "en": "Click to display the credits",
+    "fr": "Cliquez pour afficher les crédits"
+  },
+  "menu.cosmetic.name": {
+    "en": "Cosmetic menu",
+    "fr": "Menu cosmetique"
+  },
+  "menu.cosmetic.desc": {
+    "en": "Click to display cosmetic menu",
+    "fr": "Cliquer pour voir le menu des cosmetique"
+  },
+  "menu.shooting.name": {
+    "en": "Shooting range",
+    "fr": "Stand de tir"
+  },
+  "menu.shooting.desc": {
+    "en": "Click to go to shooting range",
+    "fr": "Cliquer pour acceder au stand de tir"
+  },
+  "menu2.role.name": {
+    "en": "§6Roles",
+    "fr": "§6Rôles"
+  },
+  "menu2.role.desc": {
+    "en": "Click to display how the roles work",
+    "fr": "Cliquez pour afficher le fonctionnement des rôles"
+  },
+  "menu2.event.name": {
+    "en": "§6Events",
+    "fr": "§6Evénements"
+  },
+  "menu2.event.desc": {
+    "en": "Click to display how events work",
+    "fr": "Cliquez pour afficher le fonctionnement des évènements"
+  },
+  "menu2.shop.name": {
+    "en": "§6Shop",
+    "fr": "§6Magasin"
+  },
+  "menu2.shop.desc": {
+    "en": "Click to display buyable items",
+    "fr": "Cliquez pour afficher les items achetables"
+  },
+  "menu2.murder.name": {
+    "en": "Murderer",
+    "fr": "Meurtrier"
+  },
+  "menu2.murder.desc": {
+    "en": "The murderer wins when everyone else is dead.",
+    "fr": "Le meurtrier gagne quand tout le monde est mort."
+  },
+  "menu2.murder.desc2": {
+    "en": "He can throw his knife by right-clicking while holding the knife.",
+    "fr": "Il peut lancer son couteau faisant click droit quand il le tient en main."
+  },
+  "menu2.murder.desc3": {
+    "en": "Beware of gravity!",
+    "fr": "Attention à la gravité!"
+  },
+  "menu2.murdertp.name": {
+    "en": "§aTeleporter (Murder.Inc) §2[murderer power]",
+    "fr": "§aTéleporteur (Murder.Inc) §2[pouvoir du meurtrier]"
+  },
+  "menu2.murdertp.desc": {
+    "en": "The murderer can use this remote to teleport",
+    "fr": "Le meurtrier peut utiliser cette télécommande"
+  },
+  "menu2.murdertp.desc2": {
+    "en": "himself at the location he is looking at!",
+    "fr": "Pour se téléporter à l'endroit où il regarde."
+  },
+  "menu2.murdertp.desc3": {
+    "en": "This item can only be used 4 times in a game.",
+    "fr": "Cet item peut être utilisé 4 fois durant une partie."
+  },
+  "menu2.detective.name": {
+    "en": "Detective",
+    "fr": "Détective"
+  },
+  "menu2.detective.desc": {
+    "en": "The detective's goal is to kill the murderer",
+    "fr": "Le détective est là pour tuer le meurtrier."
+  },
+  "menu2.detective.desc2": {
+    "en": "If he kills a bystander, he will drop his gun.",
+    "fr": "Si il tue un innocent, il pose son arme au sol."
+  },
+  "menu2.players.name": {
+    "en": "Bystanders",
+    "fr": "Innocent"
+  },
+  "menu2.players.desc": {
+    "en": "Bystanders have to survive until the murderer",
+    "fr": "Les innocents doivent survivre tant que le meurtrier"
+  },
+  "menu2.players.desc2": {
+    "en": "is killed or police has arrived.",
+    "fr": "n'a pas été arrété ou que la police arrive."
+  },
+  "menu2.players.desc3": {
+    "en": "Some of them can have a special ability.",
+    "fr": "Certains d'entre eux ont des capacités spéciales."
+  },
+  "menu2.players.desc4": {
+    "en": "Bystanders can also gather gold ingots to",
+    "fr": "Les innocent peuvent aussi ramasser"
+  },
+  "menu2.players.desc5": {
+    "en": "get a gun for 15 gold ingots.",
+    "fr": "15 lingots d'or pour obtenir un pistolet."
+  },
+  "menu2.ghost.name": {
+    "en": "§aGhost §2[Bystander ability]",
+    "fr": "§aFantôme §2[capacité d'innocent]"
+  },
+  "menu2.ghost.desc": {
+    "en": "The ghost can make himself invisible,",
+    "fr": "Le fantôme peut se rendre invisible"
+  },
+  "menu2.ghost.desc2": {
+    "en": "to escape or pickup the gun.",
+    "fr": "Pour pouvoir s'échapper ou ramasser le pistolet."
+  },
+  "menu2.drugged.name": {
+    "en": "§aDrug addict §2[Bystander ability]",
+    "fr": "§aDrogué §2[capacité d'innocent]"
+  },
+  "menu2.drugged.desc": {
+    "en": "The drug addict can take a sting of adrenalin",
+    "fr": "Le drogué peut prendre une piqûre d'adrénaline"
+  },
+  "menu2.drugged.desc2": {
+    "en": "to get a temporary speed boost.",
+    "fr": "pour obtenir un boost temporaire de vitesse."
+  },
+  "menu2.drugged.desc3": {
+    "en": "Beware of side effects!",
+    "fr": "Attention aux effets secondaires!"
+  },
+  "menu2.taser.name": {
+    "en": "§aTaser §2[Bystander ability]",
+    "fr": "§aTaser §2[capacité d'innocent]"
+  },
+  "menu2.taser.desc": {
+    "en": "The taser can stun someone (really)",
+    "fr": "Le taser permet de paralyser quelqu'un."
+  },
+  "menu2.taser.desc2": {
+    "en": "Useful to catch a break.",
+    "fr": "Utile pour faire une pause."
+  },
+  "menu2.taser.desc3": {
+    "en": "Use it wisely since it's a single use item.",
+    "fr": "A utiliser judicieusement, il est à usage unique!"
+  },
+  "menu2.angel.name": {
+    "en": "§aAngel §2[Bystander ability]",
+    "fr": "§aL'ange §2[capacité d'innocent]"
+  },
+  "menu2.angel.desc": {
+    "en": "The player who killed the angel is",
+    "fr": "Le joueur qui tue l'ange est marqué"
+  },
+  "menu2.angel.desc2": {
+    "en": "marked for a few seconds.",
+    "fr": "mpendant plusieurs secondes."
+  },
+  "menu2.angel.desc3": {
+    "en": "You can't discover who is the murder",
+    "fr": "Vous ne pouvez pas savoir qui est le meurtrier"
+  },
+  "menu2.angel.desc4": {
+    "en": "through walls but you have the position.",
+    "fr": "À travers les murs, mais vous avez sa position."
+  },
+  "menu2.terrorist.name": {
+    "en": "§aSuicidal §2[Bystander ability]",
+    "fr": "§aSuicidaire §2[capacité d'innocent]"
+  },
+  "menu2.terrorist.desc": {
+    "en": "When the suicidal dies, he triggers his explosives",
+    "fr": "Quand le suicidaire meurt, il active ses explosifs"
+  },
+  "menu2.terrorist.desc2": {
+    "en": "that kills everyone in a 4 blocks radius.",
+    "fr": "et tue tout le monde dans un rayon de 4 blocks."
+  },
+  "menu2.terrorist.desc3": {
+    "en": "A little mark uppon head of the suicidal",
+    "fr": "Une petite indication au niveau de sa tête"
+  },
+  "menu2.terrorist.desc4": {
+    "en": "warns the murder about the danger.",
+    "fr": "indique au meurtrier le danger."
+  },
+  "menu2.terrorist.desc5": {
+    "en": "The murder has to deal with the explosion or",
+    "fr": "Le meurtrier doit faire attention à l'explosion"
+  },
+  "menu2.terrorist.desc6": {
+    "en": "kill the suicidal at the end of the game.",
+    "fr": "ou doit le tuer en dernier pour gagner."
+  },
+  "menu2.lighter.name": {
+    "en": "§aLighter",
+    "fr": "§aBriquet"
+  },
+  "menu2.lighter.desc": {
+    "en": "Set people on fire and slow them down.",
+    "fr": "Brulez les gens autour de vous et ralentissez-les."
+  },
+  "menu2.lighter.desc2": {
+    "en": "Watch out, if you cross his trail you will catch fire.",
+    "fr": "Attention si vous marchez dans sa trainée vous serez aussi brulé!"
+  },
+  "menu2.shield.name": {
+    "en": "§aShield",
+    "fr": "§aBouclier"
+  },
+  "menu2.shield.desc": {
+    "en": "Become invicible for a short period of time",
+    "fr": "Rendez-vous invincible temporairement."
+  },
+  "menu2.shield.desc2": {
+    "en": "(Slows you down)",
+    "fr": "(Ralentis votre vitesse)"
+  },
+  "menu2.gun.name": {
+    "en": "§aDesert Eagle",
+    "fr": "§aDesert Eagle"
+  },
+  "menu2.gun.desc": {
+    "en": "FBI but with limited ammo.",
+    "fr": "Devenez comme le détective mais avec des munition limité"
+  },
+  "menu2.tp.name": {
+    "en": "§aRandom teleporter",
+    "fr": "§aTéléporteur aléatoire"
+  },
+  "menu2.tp.desc": {
+    "en": "Teleports you to a random location on the map.",
+    "fr": "Vous téléporte à un endroit aléatoire."
+  },
+  "menu2.trap.name": {
+    "en": "§aTrap",
+    "fr": "§aPiège"
+  },
+  "menu2.trap.desc": {
+    "en": "Set an invisible trap that will stun",
+    "fr": "Placez un piège au sol invisible qui paralysera"
+  },
+  "menu2.trap.desc2": {
+    "en": "anyone walking into it.",
+    "fr": "temporairement celui qui marchera dedans."
+  },
+  "menu2.thunder.name": {
+    "en": "Thunder",
+    "fr": "Orage"
+  },
+  "menu2.thunder.desc": {
+    "en": "The name says it all.",
+    "fr": "Tout est dans le nom."
+  },
+  "menu2.slime.name": {
+    "en": "Slime",
+    "fr": "Slime"
+  },
+  "menu2.slime.desc": {
+    "en": "Little slimes too cute appear,",
+    "fr": "Des petit slimes trop mignon apparaissent,"
+  },
+  "menu2.slime.desc2": {
+    "en": "Hug them <3",
+    "fr": "faites leurs des calins <3"
+  },
+  "menu2.sheep.name": {
+    "en": "Explosive sheep",
+    "fr": "Mouton explosif"
+  },
+  "menu2.sheep.desc": {
+    "en": "Explosives sheep appear, avoid them!",
+    "fr": "Des moutons explosif apparaissent, évitez les!"
+  },
+  "menu2.mine.name": {
+    "en": "Mine",
+    "fr": "Mine"
+  },
+  "menu2.mine.desc": {
+    "en": "Some mine spawn randomly, don't walk on it!",
+    "fr": "Des mines apparaissent aléatoirement, ne marchez pas dessus!"
+  },
+  "menu2.switch.name": {
+    "en": "Switch player position",
+    "fr": "Echange de positions des joueurs"
+  },
+  "menu2.switch.desc": {
+    "en": "The name says it all.",
+    "fr": "Tout est dans le nom."
+  },
+  "menu2.acidrain.name": {
+    "en": "Acid rain",
+    "fr": "Pluie acide"
+  },
+  "menu2.acidrain.desc": {
+    "en": "Don't stay under this rain. Go cover yourself",
+    "fr": "Ne restez pas sous cette pluie. Couvrez vous"
+  },
+  "menu2.gold.name": {
+    "en": "Double Gold",
+    "fr": "Gold doublé"
+  },
+  "menu2.gold.desc": {
+    "en": "The gold spawn twice as fast",
+    "fr": "Le gold apparait 2fois plus rapidement"
+  },
+  "menu2.rarely.name": {
+    "en": "Rare Event",
+    "fr": "Evénement rare"
+  },
+  "menu2.rarely.desc": {
+    "en": "Sometimes powerful events happen!",
+    "fr": "Parfois, de puissant événement peuvent se produire!"
+  },
+  "menu4.random.name": {
+    "en": "§6Random",
+    "fr": "§6 Aléatoire"
+  },
+  "menu4.selectrand.name": {
+    "en": "§6Select Random Map",
+    "fr": "§6Choisir les map random"
+  },
+  "menu5.role.desc": {
+    "en": "Click to display the roles options",
+    "fr": "Cliquez pour affichez les options des rôles."
+  },
+  "menu5.event.desc": {
+    "en": "Click to display the events options",
+    "fr": "Cliquez pour affichez les options des évènements"
+  },
+  "menu5.shop.desc": {
+    "en": "Click to display the shop options",
+    "fr": "Cliquez pour affichez les options du magasin"
+  },
+  "menu5.debug.name": {
+    "en": "§6Debug menu",
+    "fr": "§6Menu de débug"
+  },
+  "menu5.debug.desc": {
+    "en": "Use in case of bug or build",
+    "fr": "A utiliser qu'en cas de bug ou pour construire!"
+  },
+  "menu5.activate.desc": {
+    "en": "Click to activate this ability",
+    "fr": "Cliquez pour activer cette capacité"
+  },
+  "menu5.desactivate.desc": {
+    "en": "Click to desactivate this ability",
+    "fr": "Cliquez pour désactiver cette capacité"
+  },
+  "menu5.enable.desc": {
+    "en": "Click to enable this item",
+    "fr": "Cliquez pour activer cet item"
+  },
+  "menu5.disable.desc": {
+    "en": "Click to disable this item",
+    "fr": "Cliquez pour désactiver cet item"
+  },
+  "menu5.enable2.desc": {
+    "en": "Click to enable this event",
+    "fr": "Cliquez pour activer cet événement"
+  },
+  "menu5.disable2.desc": {
+    "en": "Click to disable this event",
+    "fr": "Cliquez pour désactiver cet événement"
+  },
+  "menu5.enable3.desc": {
+    "en": "Click to enable rare event",
+    "fr": "Cliquez pour activer les événement rare"
+  },
+  "menu5.disable3.desc": {
+    "en": "Click to disable rare event",
+    "fr": "Cliquez pour désactiver les événement rare"
+  },
+  "menu5.murdertp.name": {
+    "en": "Teleporter (Murder.Inc)",
+    "fr": "Téléporteur (Murder.Inc)"
+  },
+  "menu5.kit.name": {
+    "en": "Disguise kit",
+    "fr": "Kit de déguisement"
+  },
+  "menu5.ghost.name": {
+    "en": "Ghost",
+    "fr": "Fantôme"
+  },
+  "menu5.drugged.name": {
+    "en": "Drug addict",
+    "fr": "Drogué"
+  },
+  "menu5.taser.name": {
+    "en": "Taser",
+    "fr": "Taser"
+  },
+  "menu5.angel.name": {
+    "en": "Angel",
+    "fr": "L'ange"
+  },
+  "menu5.terrorist.name": {
+    "en": "Suicidal",
+    "fr": "Suicidaire"
+  },
+  "menu5.thief.name": {
+    "en": "Thief",
+    "fr": "Voleur"
+  },
+  "menu5.lighter.name": {
+    "en": "Lighter",
+    "fr": "Briquet"
+  },
+  "menu5.shield.name": {
+    "en": "Shield",
+    "fr": "Bouclier"
+  },
+  "menu5.gun.name": {
+    "en": "Desert Eagle",
+    "fr": "Desert Eagle"
+  },
+  "menu5.magazine.name": {
+    "en": "Desert Eagle magazine of 3 bullet",
+    "fr": "Chargeur de Desert Eagle de 3 balles"
+  },
+  "menu5.tp.name": {
+    "en": "Random teleporter",
+    "fr": "Téléporteur aléatoire"
+  },
+  "menu5.trap.name": {
+    "en": "Trap",
+    "fr": "Piège"
+  },
+  "menu5.thunder.name": {
+    "en": "Thunder",
+    "fr": "Orage"
+  },
+  "menu5.slime.name": {
+    "en": "Slime",
+    "fr": "Slime"
+  },
+  "menu5.sheep.name": {
+    "en": "Explosive sheep",
+    "fr": "Mouton explosif"
+  },
+  "menu5.mine.name": {
+    "en": "Mine",
+    "fr": "Mine"
+  },
+  "menu5.switch.name": {
+    "en": "Switch player position",
+    "fr": "Echange de position des joueurs"
+  },
+  "menu5.acidrain.name": {
+    "en": "Acid rain",
+    "fr": "Pluie acide"
+  },
+  "menu5.gold.name": {
+    "en": "Double Gold",
+    "fr": "Gold doublé"
+  },
+  "menu5.spawn.desc": {
+    "en": "Click to tp to spawn",
+    "fr": "Cliquez pour vous tp au spawn"
+  },
+  "menu5.tpmap.desc": {
+    "en": "Click to tp to map",
+    "fr": "Cliquez pour vous tp à cette map"
+  },
+  "menu5.nextmap.name": {
+    "en": "§9Other maps",
+    "fr": "§9Autres maps"
+  },
+  "menu5.map.desc": {
+    "en": "Click to display the other map",
+    "fr": "Cliquez pour afficher les autres maps"
+  },
+  "menu5.builder.desc": {
+    "en": "§4Click to became player/spectator",
+    "fr": "§4Cliquez pour devenir joueur/spectateur"
+  },
+  "menu5.player.desc": {
+    "en": "§4Click to join builder team",
+    "fr": "§4Cliquez pour devenir constructeur"
+  },
+  "menu5.newspawn.name": {
+    "en": "§6Set new spawnpoint",
+    "fr": "§6Placer nouveau point de spawn"
+  },
+  "menu5.removespawn.name": {
+    "en": "§6Remove nearest spawnpoint",
+    "fr": "§6Retirer le point de spawn le plus proche"
+  },
+  "menu5.newgold.name": {
+    "en": "§6Set new gold spawner",
+    "fr": "§6Placer nouveau point de spawn d'or"
+  },
+  "menu5.removegold.name": {
+    "en": "§6Remove nearest gold spawner",
+    "fr": "§6Retirer le point de spawn d'or le plus proche"
+  },
+  "menu5.map.name": {
+    "en": "TP to map",
+    "fr": "TP vers map"
+  },
+  "menu.evan.desc": {
+    "en": "One of the creators of this map",
+    "fr": "Un des créateurs de la map"
+  },
+  "menu._redcoal_.desc": {
+    "en": "One of the creators of this map",
+    "fr": "Un des créateurs de la map"
+  },
+  "menu8.random.random": {
+    "en": "Random",
+    "fr": "Aléatoire"
+  },
+  "menu8.random.select_hat": {
+    "en": "Select Random Hat",
+    "fr": "Choisir un chapeau aléatoirement"
+  },
+  "menu8.random.select_knife": {
+    "en": "Select Random Knife",
+    "fr": "Choisir un couteau aléatoirement"
+  },
+  "menu8.random.select_gun": {
+    "en": "Select Random Gun",
+    "fr": "Choisir un flingue aléatoirement"
+  },
+  "menu8.random.hat": {
+    "en": "Random hat",
+    "fr": "Chapeau aléatoire"
+  },
+  "menu8.random.knife": {
+    "en": "Random knife",
+    "fr": "Couteau aléatoire"
+  },
+  "menu8.random.gun": {
+    "en": "Random gun",
+    "fr": "Flingue aléatoire"
+  },
+  "Website": {
+    "en": "\\nWebsite",
+    "fr": "\\nWebsite"
+  },
+  "shop.lighter.name": {
+    "en": "§aLighter §6(%s §6gold)",
+    "fr": "§aBriquet §6(%s §6or)"
+  },
+  "shop.shield.name": {
+    "en": "§aShield §6(%s §6gold)",
+    "fr": "§aBouclier §6(%s §6or)"
+  },
+  "shop.gun.name": {
+    "en": "§aDesert Eagle §6(%s §6gold)",
+    "fr": "§aDesert Eagle §6(%s §6or)"
+  },
+  "shop.magazine.name": {
+    "en": "§a3 bullets - .50 A.E. magazine§6(%s §6gold)",
+    "fr": "§a3 balles - Chargeur .50 A.E §6(%s §6or)"
+  },
+  "shop.tp.name": {
+    "en": "§aRandom teleporter §6(%s §6gold)",
+    "fr": "§aTéléporteur aléatoire §6(%s §6or)"
+  },
+  "shop.trap.name": {
+    "en": "§aTrap §6(%s §6gold)",
+    "fr": "§aPiège §6(%s §6or)"
+  },
+  "shop.nogold": {
+    "en": "§cYou don't have enought gold!",
+    "fr": "§cVous n'avez pas assez d'or !"
+  },
+  "shop.buyitem": {
+    "en": "§cYou can't buy 2 items at once.",
+    "fr": "§cVous ne pouvez pas acheter 2 articles à la fois."
+  },
+  "advancement.root.desc": {
+    "en": "§7§oDownload and play SuperMurder",
+    "fr": "§7§oTélécharger et jouer à SuperMurder"
+  },
+  "advancement.adv1.name": {
+    "en": "§3§lHere we go!",
+    "fr": "§3§lC'est parti !"
+  },
+  "advancement.adv1.desc": {
+    "en": "§7§oPlay a game of SuperMurder",
+    "fr": "§7§oJouer une partie de SuperMurder"
+  },
+  "advancement.adv2.name": {
+    "en": "§lA crime? Let's Go!",
+    "fr": "§lUn crime? Allons-y!"
+  },
+  "advancement.adv2.desc": {
+    "en": "§7§oPlay as the detective",
+    "fr": "§7§oJouer en tant que détective"
+  },
+  "advancement.adv3.name": {
+    "en": "§lJustice is done.",
+    "fr": "§lJustice est rendu"
+  },
+  "advancement.adv3.desc": {
+    "en": "§7§oWin a game as the detective.",
+    "fr": "§7§oGagner en tant que détective."
+  },
+  "advancement.adv4.name": {
+    "en": "§lJustice always triumph",
+    "fr": "§lLa justice triomphe toujours"
+  },
+  "advancement.adv4.desc": {
+    "en": "§7§oWin 5 games as the detective.",
+    "fr": "§7§oGagner 5 parties en tant que détective"
+  },
+  "advancement.adv5.name": {
+    "en": "§lThe vigilente",
+    "fr": "§lLe justicier"
+  },
+  "advancement.adv5.desc": {
+    "en": "§7§oWin 10 games as the detective.",
+    "fr": "§7§oGagner 10 parties en tant que détective."
+  },
+  "advancement.adv6.name": {
+    "en": "§lJudge",
+    "fr": "§lJuge"
+  },
+  "advancement.adv6.desc": {
+    "en": "§7§oWin 50 games as the detective.",
+    "fr": "§7§oGagner 50 parties en tant que détective."
+  },
+  "advancement.adv7.name": {
+    "en": "§lI'm the law",
+    "fr": "§lJe suis la loi"
+  },
+  "advancement.adv7.desc": {
+    "en": "§7§oWin 100 games as the detective.",
+    "fr": "§7§oGagner 100 parties en tant que détective."
+  },
+  "advancement.adv8.name": {
+    "en": "§lOops!",
+    "fr": "§lOups!"
+  },
+  "advancement.adv8.desc": {
+    "en": "§7§oKill a bystander",
+    "fr": "§7§oTuer un innocent"
+  },
+  "advancement.adv9.name": {
+    "en": "§lCollateral victim",
+    "fr": "§lVictime collatérale"
+  },
+  "advancement.adv9.desc": {
+    "en": "§7§oKill 5 bystanders",
+    "fr": "§7§oTuer 5 innocents"
+  },
+  "advancement.adv10.name": {
+    "en": "§lCorrupt detective",
+    "fr": "§lDétective corrompu"
+  },
+  "advancement.adv10.desc": {
+    "en": "§7§oKill 10 bystanders",
+    "fr": "§7§oTuer 10 innocents"
+  },
+  "advancement.adv11.name": {
+    "en": "§lFallen detective",
+    "fr": "§lDétective déchu"
+  },
+  "advancement.adv11.desc": {
+    "en": "§7§oKill 50 bystanders",
+    "fr": "§7§oTuer 50 innocents"
+  },
+  "advancement.adv12.name": {
+    "en": "§lA second murderer",
+    "fr": "§lUn second meurtrier!"
+  },
+  "advancement.adv12.desc": {
+    "en": "§7§oKill 100 bystanders",
+    "fr": "§7§oTuer 100 innocents"
+  },
+  "advancement.adv13.name": {
+    "en": "§lOne day justice will triumph",
+    "fr": "§lUn jour la justice triomphera"
+  },
+  "advancement.adv13.desc": {
+    "en": "§7§oLose a game as the detective.",
+    "fr": "§7§oPerdre une partie en tant que détective."
+  },
+  "advancement.adv14.name": {
+    "en": "§lA bad for a good",
+    "fr": "§lUn mal pour un bien"
+  },
+  "advancement.adv14.desc": {
+    "en": "§7§oKill the murderer by killing the suicidal.",
+    "fr": "§7§oTuer le meurtrier en tuant de suicidaire."
+  },
+  "advancement.adv15.name": {
+    "en": "§lPriority target",
+    "fr": "§lCible prioritaire"
+  },
+  "advancement.adv15.desc": {
+    "en": "§7§oBe the first victim as the detective.",
+    "fr": "§7§oEtre la première victime en tant que détective."
+  },
+  "advancement.adv16.name": {
+    "en": "§lIt's showtime!",
+    "fr": "§lC'est l'heure du spectacle !"
+  },
+  "advancement.adv16.desc": {
+    "en": "§7§oPlay as the murderer.",
+    "fr": "§7§oJouer en tant que meurtrier"
+  },
+  "advancement.adv17.name": {
+    "en": "§lBeginner",
+    "fr": "§lDébutant"
+  },
+  "advancement.adv17.desc": {
+    "en": "§7§oWin a game as the murderer.",
+    "fr": "§7§oGagner une partie en tant que meurtrier."
+  },
+  "advancement.adv18.name": {
+    "en": "§lRegular",
+    "fr": "§lHabitué"
+  },
+  "advancement.adv18.desc": {
+    "en": "§7§oWin 5 game as the murderer.",
+    "fr": "§7§oGagner 5 parties en tant que meurtrier."
+  },
+  "advancement.adv19.name": {
+    "en": "§lVeterant",
+    "fr": "§lVétérant"
+  },
+  "advancement.adv19.desc": {
+    "en": "§7§oWin 10 game as the murderer.",
+    "fr": "§7§oGagner 10 parties en tant que meurtrier."
+  },
+  "advancement.adv20.name": {
+    "en": "§lProfessional",
+    "fr": "§lProfessionnel"
+  },
+  "advancement.adv20.desc": {
+    "en": "§7§oWin 50 game as the murderer.",
+    "fr": "§7§oGagner 50 parties en tant que meurtrier."
+  },
+  "advancement.adv21.name": {
+    "en": "§lMonster",
+    "fr": "§lMonstre"
+  },
+  "advancement.adv21.desc": {
+    "en": "§7§oWin 100 game as the murderer.",
+    "fr": "§7§oGagner 100 parties en tant que meurtrier."
+  },
+  "advancement.adv22.name": {
+    "en": "§lCriminal",
+    "fr": "§lCriminel"
+  },
+  "advancement.adv22.desc": {
+    "en": "§7§oKill a player.",
+    "fr": "§7§oTuer un joueur."
+  },
+  "advancement.adv23.name": {
+    "en": "§lKiller",
+    "fr": "§lTueur"
+  },
+  "advancement.adv23.desc": {
+    "en": "§7§oKill 10 players.",
+    "fr": "§7§oTuer 10 joueurs."
+  },
+  "advancement.adv24.name": {
+    "en": "§lAssassin",
+    "fr": "§lAssassin"
+  },
+  "advancement.adv24.desc": {
+    "en": "§7§oKill 50 players.",
+    "fr": "§7§oTuer 50 joueurs."
+  },
+  "advancement.adv25.name": {
+    "en": "§lSerial Killer",
+    "fr": "§lTueur en série"
+  },
+  "advancement.adv25.desc": {
+    "en": "§7§oKill 100 players.",
+    "fr": "§7§oTuer 100 joueurs."
+  },
+  "advancement.adv26.name": {
+    "en": "§lDemon",
+    "fr": "§lDémon"
+  },
+  "advancement.adv26.desc": {
+    "en": "§7§oKill 500 players.",
+    "fr": "§7§oTuer 500 joueurs."
+  },
+  "advancement.adv27.name": {
+    "en": "§lEasy target",
+    "fr": "§lCible facile"
+  },
+  "advancement.adv27.desc": {
+    "en": "§7§oKill the detective first.",
+    "fr": "§7§oTuer le détective en premier."
+  },
+  "advancement.adv28.name": {
+    "en": "§lNice try!",
+    "fr": "§lBien essayé!"
+  },
+  "advancement.adv28.desc": {
+    "en": "§7§oKill a bystander carrying a weapon in his hand.",
+    "fr": "§7§oTuer un innocent tenant une arme dans sa main."
+  },
+  "advancement.adv29.name": {
+    "en": "§lDamn justice!",
+    "fr": "§lFichu justice!"
+  },
+  "advancement.adv29.desc": {
+    "en": "§7§oBe killed by the detective even before killing someone.",
+    "fr": "§7§oEtre tué par le détective avant d'avoir pu tuer quelqu'un."
+  },
+  "advancement.adv30.name": {
+    "en": "§lHELP!",
+    "fr": "§lA L'AIDE!"
+  },
+  "advancement.adv30.desc": {
+    "en": "§7§oPlay as bystander",
+    "fr": "§7§oJouer en tant qu'innocent"
+  },
+  "advancement.adv31.name": {
+    "en": "§lAh shit, here we go again...",
+    "fr": "§lEt merde, nous y revoilà...."
+  },
+  "advancement.adv31.desc": {
+    "en": "§7§oPlay 10 games in a row as a bystander.",
+    "fr": "§7§oEtre innocent 10 partie d'affilée"
+  },
+  "advancement.adv32.name": {
+    "en": "§lFinish the jump!",
+    "fr": "§lFinir le parcours!"
+  },
+  "advancement.adv32.desc": {
+    "en": "§7§oGo to the jump and finish it!",
+    "fr": "§7§oAller au parcours et le finir!"
+  },
+  "advancement.adv33.name": {
+    "en": "§lGG!",
+    "fr": "§lGG!"
+  },
+  "advancement.adv33.desc": {
+    "en": "§7§oFinish the jump 5 time!",
+    "fr": "§7§oFinir pour la 5éme fois le parcours"
+  },
+  "advancement.adv34.name": {
+    "en": "§l10 Times!",
+    "fr": "§l10 fois!"
+  },
+  "advancement.adv34.desc": {
+    "en": "§7§oWhy Not?",
+    "fr": "§7§oPourquoi pas?"
+  },
+  "advancement.adv35.name": {
+    "en": "§l50?!",
+    "fr": "§l50?!"
+  },
+  "advancement.adv35.desc": {
+    "en": "§7§oYou really haven't got friends?",
+    "fr": "§7§oTu n'a vraiment pas d'amis?"
+  },
+  "advancement.adv36.name": {
+    "en": "§lSo...",
+    "fr": "§lDonc..."
+  },
+  "advancement.adv36.desc": {
+    "en": "§7§oYou should REALLY close minecraft and go outside to get some friend!",
+    "fr": "§7§oTu devrais vraiment fermer minecraft et aller dehors te faire des amis!"
+  },
+  "advancement.cosmetic.root.name": {
+    "en": "Cosmetic",
+    "fr": "Cosmétique"
+  },
+  "advancement.cosmetic.root.desc": {
+    "en": "Unlocked Cosmetic",
+    "fr": "Cosmétique débloqué"
+  },
+  "advancement.hat.root.name": {
+    "en": "Hat",
+    "fr": "Chapeau"
+  },
+  "advancement.hat.root.desc": {
+    "en": "Unlocked hat",
+    "fr": "Chapeau débloqué"
+  },
+  "advancement.hat.default.name": {
+    "en": "Your own head.",
+    "fr": "Ta propre tête."
+  },
+  "advancement.hat.default.desc": {
+    "en": "Yes, no hat is a hat!",
+    "fr": "Oui, aucun chapeau est un chapeau!"
+  },
+  "inventory.hat.default.name": {
+    "en": "Random player head",
+    "fr": "Tête d'un joueur choisie aléatoirement"
+  },
+  "advancement.hat.kappa.name": {
+    "en": "Kappa",
+    "fr": "Kappa"
+  },
+  "advancement.hat.kappa.desc": {
+    "en": "???",
+    "fr": null
+  },
+  "inventory.hat.kappa.name": {
+    "en": "Kappa",
+    "fr": "Kappa"
+  },
+  "advancement.hat.toilet.name": {
+    "en": "Toilet",
+    "fr": "Toilette"
+  },
+  "advancement.hat.toilet.desc": {
+    "en": "???",
+    "fr": null
+  },
+  "inventory.hat.toilet.name": {
+    "en": "Toilet",
+    "fr": "Toilette"
+  },
+  "advancement.hat.evan.desc": {
+    "en": "One of the creator of the best map ever !",
+    "fr": "L'un des créateurs de la meilleurs map au monde!"
+  },
+  "advancement.hat.redcoal.desc": {
+    "en": "One of the creator of the best map ever !",
+    "fr": "L'un des createurs de la meilleurs map au monde!"
+  },
+  "advancement.hat.space.name": {
+    "en": "Space helmet",
+    "fr": "Casque de combinaison spatial"
+  },
+  "advancement.hat.space.desc": {
+    "en": "To infinity, and beyond!",
+    "fr": "Vers l'infini, et au-delà !"
+  },
+  "inventory.hat.space.name": {
+    "en": "Space helmet",
+    "fr": "Casque de combinaison spatial"
+  },
+  "advancement.hat.hdf.name": {
+    "en": "Top hat",
+    "fr": "Haut de forme"
+  },
+  "advancement.hat.hdf.desc": {
+    "en": "For the rich!",
+    "fr": "Pour les riches!"
+  },
+  "inventory.hat.hdf.name": {
+    "en": "Top hat",
+    "fr": "Haut de forme"
+  },
+  "advancement.hat.rick.name": {
+    "en": "Rick roll",
+    "fr": null
+  },
+  "advancement.hat.rick.desc": {
+    "en": "To rick roll your friend!",
+    "fr": "Pour rick roll vos amis!"
+  },
+  "inventory.hat.rick.name": {
+    "en": "Rick roll",
+    "fr": null
+  },
+  "advancement.hat.fox.name": {
+    "en": "Fox ears",
+    "fr": "Oreille de renard"
+  },
+  "advancement.hat.fox.desc": {
+    "en": "What does the fox say ...",
+    "fr": null
+  },
+  "inventory.hat.fox.name": {
+    "en": "Fox ears",
+    "fr": "Oreille de renard"
+  },
+  "advancement.hat.aureole.name": {
+    "en": "aureole",
+    "fr": "Auréole"
+  },
+  "advancement.hat.aureole.desc": {
+    "en": "You are an angel",
+    "fr": "Tu est un ange"
+  },
+  "inventory.hat.aureole.name": {
+    "en": "aureole",
+    "fr": "Auréole"
+  },
+  "advancement.hat.diable.name": {
+    "en": "Devils Horns",
+    "fr": "Corne de diable"
+  },
+  "advancement.hat.diable.desc": {
+    "en": "You are the fallen angel",
+    "fr": "Tu est l'ange dechu"
+  },
+  "inventory.hat.diable.name": {
+    "en": "Devils Horns",
+    "fr": "Corne de diable"
+  },
+  "advancement.hat.cake.name": {
+    "en": "The cake is a lie",
+    "fr": null
+  },
+  "advancement.hat.cake.desc": {
+    "en": "Happy birthday team members",
+    "fr": "Bonne anniversaire au membre de l'equipe"
+  },
+  "inventory.hat.cake.name": {
+    "en": "Cake",
+    "fr": "Gateau"
+  },
+  "advancement.knife.root.name": {
+    "en": "Knife",
+    "fr": "Couteau"
+  },
+  "advancement.knife.root.desc": {
+    "en": "Unlocked knife",
+    "fr": "Couteau débloqué"
+  },
+  "advancement.knife.default.name": {
+    "en": "Default knife",
+    "fr": "Couteau par default"
+  },
+  "advancement.knife.default.desc": {
+    "en": "A knife",
+    "fr": "Un couteau."
+  },
+  "inventory.knife.default.name": {
+    "en": "Knife",
+    "fr": "Couteau"
+  },
+  "advancement.knife.golden.name": {
+    "en": "Golden Knife",
+    "fr": "Couteau en or"
+  },
+  "advancement.knife.golden.desc": {
+    "en": "You have unlocked the golden knife",
+    "fr": "Tu a debloqué le couteau en or"
+  },
+  "inventory.knife.golden.name": {
+    "en": "Golden Knife",
+    "fr": "Couteau en or"
+  },
+  "advancement.knife.hidden.name": {
+    "en": "Hidden Blade",
+    "fr": "Lame secrète"
+  },
+  "advancement.knife.hidden.desc": {
+    "en": "Nothing is true,\\neverything is permitted",
+    "fr": "Rien n'est vrai,\\ntout est permis"
+  },
+  "inventory.knife.hidden.name": {
+    "en": "Hidden Blade",
+    "fr": "Lame Secrète"
+  },
+  "advancement.knife.batarang.name": {
+    "en": "Batarang",
+    "fr": null
+  },
+  "advancement.knife.batarang.desc": {
+    "en": "I am vengeance,\\nI am the night,\\nI am Batman!",
+    "fr": "Je suis vengeance,\\nje suis la nuit,\\nje suis Batman!"
+  },
+  "inventory.knife.batarang.name": {
+    "en": "Batarang",
+    "fr": null
+  },
+  "advancement.knife.baguette.desc": {
+    "en": "Error 404 : description not found",
+    "fr": "Erreur 404 : description non trouvé"
+  },
+  "advancement.knife.big_sword.name": {
+    "en": "Big sword",
+    "fr": "Grosse épée"
+  },
+  "advancement.knife.big_sword.desc": {
+    "en": "a very very VERY big sword.",
+    "fr": "Une très très TRÈS grosse épée."
+  },
+  "inventory.knife.big_sword.name": {
+    "en": "Big sword",
+    "fr": "Grosse épée"
+  },
+  "advancement.gun.root.name": {
+    "en": "Gun",
+    "fr": "Pistolet"
+  },
+  "advancement.gun.root.desc": {
+    "en": "Unlocked gun",
+    "fr": "Pistolet Debloqué"
+  },
+  "advancement.gun.default.name": {
+    "en": "Defaut deagle",
+    "fr": "Arme par default"
+  },
+  "advancement.gun.default.desc": {
+    "en": "A deagle",
+    "fr": "Un desert Eagle"
+  },
+  "inventory.gun.default.name": {
+    "en": "Because Why not ?",
+    "fr": "Pourquoi pas ?"
+  },
+  "advancement.gun.golden.name": {
+    "en": "Golden Gun",
+    "fr": "Pistolet en or"
+  },
+  "advancement.gun.golden.desc": {
+    "en": "You have unlocked the golden gun",
+    "fr": "Tu a debloqué le pistolet en or"
+  },
+  "inventory.gun.golden.name": {
+    "en": "Golden Gun",
+    "fr": "Pistolet en or"
+  },
+  "advancement.gun.hitman.name": {
+    "en": "Hitman Gun",
+    "fr": "Pistolet d'hitman"
+  },
+  "advancement.gun.hitman.desc": {
+    "en": "You are 47",
+    "fr": "Tu est 47"
+  },
+  "inventory.gun.hitman.name": {
+    "en": "Hitman Gun",
+    "fr": "Pistolet d'hitman"
+  },
+  "advancement.gun.numberone.name": {
+    "en": "supporter glove",
+    "fr": "Gant de supporter"
+  },
+  "advancement.gun.numberone.desc": {
+    "en": "???",
+    "fr": null
+  },
+  "inventory.gun.numberone.name": {
+    "en": "supporter glove",
+    "fr": "Gant de supporter"
+  },
+  "advancement.gun.dfg.name": {
+    "en": "DFG",
+    "fr": null
+  },
+  "advancement.gun.dfg.desc": {
+    "en": "???",
+    "fr": null
+  },
+  "inventory.gun.dfg.name": {
+    "en": "DFG",
+    "fr": null
+  },
+  "advancement.easter_egg.infernaton.name": {
+    "en": "Infernaton?",
+    "fr": null
+  },
+  "advancement.easter_egg.infernaton.desc": {
+    "en": "He has created ocean lab!",
+    "fr": "Il a creer ocean lab !"
+  },
+  "advancement.easter_egg.birthday.name": {
+    "en": "The cake is not a lie",
+    "fr": null
+  },
+  "advancement.easter_egg.birthday.desc": {
+    "en": "Happy birthday to myself !",
+    "fr": "Bonne anniversaire a moi meme !"
+  },
+  "advancement.easter_egg.toilet.name": {
+    "en": "Toilet",
+    "fr": null
+  },
+  "advancement.easter_egg.toilet.desc": {
+    "en": "Sit on a toilet",
+    "fr": null
+  },
+  "advancement.easter_egg.secret_toilet.name": {
+    "en": "Secret toilet",
+    "fr": null
+  },
+  "advancement.easter_egg.secret_toilet.desc": {
+    "en": "Sit on all secret toilet!",
+    "fr": null
+  },
+  "advancement.easter_egg.lucky.name": {
+    "en": "The luckiest person ever?",
+    "fr": null
+  },
+  "advancement.easter_egg.lucky.desc": {
+    "en": "Get all 1/500 random chance things!",
+    "fr": null
+  },
+  "advancement.map.maze.name": {
+    "en": "Maze",
+    "fr": null
+  },
+  "advancement.map.maze.desc": {
+    "en": "Finish the maze",
+    "fr": null
+  },
+  "advancement.map.mazet.name": {
+    "en": "Maze",
+    "fr": null
+  },
+  "advancement.map.mazet.desc": {
+    "en": "The maze finish you",
+    "fr": null
+  },
+  "advancement.map.oof.ocean.name": {
+    "en": "OOF",
+    "fr": "OOF"
+  },
+  "advancement.map.oof.ocean.desc": {
+    "en": "Die by falling in water",
+    "fr": "Mourir en tombant dans l'eau"
+  },
+  "advancement.map.oof.catacomb.name": {
+    "en": "OOF",
+    "fr": null
+  },
+  "advancement.map.oof.catacomb.desc": {
+    "en": "Die in the hole in the catacomb",
+    "fr": null
+  },
+  "advancement.map.oof.moon.name": {
+    "en": "SPACE OOF",
+    "fr": null
+  },
+  "advancement.map.oof.moon.desc": {
+    "en": "Die in space water on the moon",
+    "fr": null
+  },
+  "advancement.map.pacman.name": {
+    "en": "Pacman",
+    "fr": null
+  },
+  "advancement.map.pacman.desc": {
+    "en": "Eat by pacman",
+    "fr": null
+  },
+  "advancement.map.gold.call.name": {
+    "en": "A call?",
+    "fr": null
+  },
+  "advancement.map.gold.call.desc": {
+    "en": "Make a call",
+    "fr": null
+  },
+  "advancement.map.gold.tardis.name": {
+    "en": "A mysterious blue box",
+    "fr": null
+  },
+  "advancement.map.gold.tardis.desc": {
+    "en": "Doctor Who ?",
+    "fr": null
+  },
+  "advancement.map.secret_place.office.name": {
+    "en": "Cafeteria",
+    "fr": "Cafétéria"
+  },
+  "advancement.map.secret_place.office.desc": {
+    "en": "Need to drink?",
+    "fr": "Besoin de boire?"
+  },
+  "advancement.map.secret_place.rich_land.name": {
+    "en": "Sauna",
+    "fr": "Sauna"
+  },
+  "advancement.map.secret_place.rich_land.desc": {
+    "en": "Need a break?",
+    "fr": "Besoin d'une pause?"
+  },
+  "advancement.map.secret_place.murder_island.name": {
+    "en": "Below the well",
+    "fr": null
+  },
+  "advancement.map.secret_place.murder_island.desc": {
+    "en": "A treasure?",
+    "fr": null
+  },
+  "advancement.map.secret_place.ranch.name": {
+    "en": "Hidden in the hay",
+    "fr": "Caché dans le blé"
+  },
+  "advancement.map.secret_place.ranch.desc": {
+    "en": "Beware, it's itchy!",
+    "fr": "Attention, ça gratte!"
+  },
+  "advancement.map.secret_place.high_village.name": {
+    "en": "Secret labs",
+    "fr": null
+  },
+  "advancement.map.secret_place.high_village.desc": {
+    "en": "What happening here ?",
+    "fr": null
+  },
+  "advancment.event.easter_egg.name": {
+    "en": "Easter",
+    "fr": "Pâques"
+  },
+  "advancment.event.easter_egg.desc": {
+    "en": "Play during easter week!",
+    "fr": "Jouer pendant la semaines de paques!"
+  },
+  "advancment.event.1_egg.name": {
+    "en": "On your marks, ready? Go",
+    "fr": null
+  },
+  "advancment.event.1_egg.desc": {
+    "en": "Find your first egg",
+    "fr": null
+  },
+  "advancment.event.20_egg.name": {
+    "en": "Egg Hunter",
+    "fr": null
+  },
+  "advancment.event.20_egg.desc": {
+    "en": "Find 20 eggs",
+    "fr": null
+  },
+  "advancment.event.100_egg.name": {
+    "en": "Easter Hunter",
+    "fr": null
+  },
+  "advancment.event.100_egg.desc": {
+    "en": "Find 100 eggs",
+    "fr": null
+  },
+  "advancment.event.500_egg.name": {
+    "en": "Chiken Farmer ?",
+    "fr": null
+  },
+  "advancment.event.500_egg.desc": {
+    "en": "You found a magic chicken ?",
+    "fr": null
+  },
+  "advancement.easter_egg.secret.baguette.name": {
+    "en": "Baguette 404",
+    "fr": null
+  },
+  "advancement.easter_egg.secret.baguette.desc": {
+    "en": "The secret baguette",
+    "fr": null
+  },
+  "advancement.easter_egg.secret.potato.name": {
+    "en": "Potato 42",
+    "fr": null
+  },
+  "advancement.easter_egg.secret.potato.desc": {
+    "en": "The secret potato",
+    "fr": null
+  },
+  "advancement.easter_egg.secret.cookie.name": {
+    "en": "Free cookie",
+    "fr": null
+  },
+  "advancement.easter_egg.secret.cookie.desc": {
+    "en": "COOOOOOKIE",
+    "fr": null
+  },
+  "advancment.game.name": {
+    "en": "Game",
+    "fr": null
+  },
+  "advancment.map.name": {
+    "en": "Map",
+    "fr": null
+  },
+  "advancment.map.desc": {
+    "en": "Map advancments",
+    "fr": null
+  },
+  "advancment.easter_egg.name": {
+    "en": "Easter egg",
+    "fr": null
+  },
+  "advancment.easter_egg.desc": {
+    "en": "Menu easter egg",
+    "fr": null
+  },
+  "advancment.event.name": {
+    "en": "Event",
+    "fr": null
+  },
+  "advancment.event.desc": {
+    "en": "Event",
+    "fr": null
+  },
+  "inventory.cut.name": {
+    "en": "§4Knife",
+    "fr": "§4Couteau"
+  },
+  "inventory.teleport.name": {
+    "en": "§aTeleportation",
+    "fr": "§aTéléportation"
+  },
+  "inventory.teleport2.name": {
+    "en": "§2TelepOrtation",
+    "fr": "§2TelepOrtation"
+  },
+  "inventory.teleport3.name": {
+    "en": "§cT€l€p0rt§ka§r§4tiôn",
+    "fr": "§cT€l€p0rt§ka§r§4tiôn"
+  },
+  "inventory.teleport4.name": {
+    "en": "§4§kT€l€p00rt",
+    "fr": "§4§kT€l€p00rt"
+  },
+  "inventory.kit.name": {
+    "en": "§4Disguise kit",
+    "fr": "§4Kit de déguisement"
+  },
+  "inventory.steal.name": {
+    "en": "§6Steal",
+    "fr": null
+  },
+  "murder.gone": {
+    "en": "Murder Gone!",
+    "fr": "Le meurtrier est parti!"
+  },
+  "score.time.left": {
+    "en": "Time left:",
+    "fr": "Temps restant:"
+  },
+  "score.game.finish": {
+    "en": "Game Finish",
+    "fr": "Partie terminé"
+  },
+  "score.game.inno": {
+    "en": "Innocents left:",
+    "fr": "Innocent restant:"
+  },
+  "score.map": {
+    "en": "Map:",
+    "fr": "Map:"
+  },
+  "score.gun.display": {
+    "en": "Gun:",
+    "fr": "Gun:"
+  },
+  "score.gun.notdrop": {
+    "en": "Not Dropped",
+    "fr": "Non Droppé"
+  },
+  "score.gun.drop": {
+    "en": "Dropped",
+    "fr": "Droppé"
+  },
+  "config.minimap.choose": {
+    "en": "Choose your minimap settings:",
+    "fr": "Paramétrez votre minimap:"
+  },
+  "config.minimap.size1": {
+    "en": "Small size",
+    "fr": "Petite taille"
+  },
+  "config.minimap.size2": {
+    "en": "Almost the smaller size",
+    "fr": "Taille moyenne"
+  },
+  "config.minimap.size3": {
+    "en": "Almost the max size",
+    "fr": "Grande taille"
+  },
+  "config.minimap.size4": {
+    "en": "Max size",
+    "fr": "Taille maximal"
+  },
+  "config.minimap.disable": {
+    "en": "Disable the minimap :-(",
+    "fr": "Désactiver la minimap :-("
+  },
+  "space.120": {
+    "en": "\\uF83B\\uF83A\\uF839\\uF828%s",
+    "fr": null
+  },
+  "space.70": {
+    "en": "\\uF83B\\uF826%s",
+    "fr": null
+  },
+  "space.48": {
+    "en": "\\uF83A\\uF829%s",
+    "fr": null
+  },
+  "space.42": {
+    "en": "\\uF83A\\uF838\\uF822%s",
+    "fr": null
+  },
+  "space.-1": {
+    "en": "\\uF801%s",
+    "fr": null
+  },
+  "space.-105": {
+    "en": "\\uF81B\\uF81A\\uF818\\uF801%s",
+    "fr": null
+  },
+  "space.-120": {
+    "en": "\\uF81B\\uF81A\\uF819\\uF808%s",
+    "fr": null
+  },
+  "space.-175": {
+    "en": "\\uF81C\\uF81A\\uF818\\uF807%s",
+    "fr": null
+  },
+  "space.-300": {
+    "en": "\\uF81D\\uF81A\\uF818\\uF804%s",
+    "fr": null
+  },
+  "space.-400": {
+    "en": "\\uF81D\\uF81C\\uF809%s",
+    "fr": null
+  },
+  "space.-460": {
+    "en": "\\uF81D\\uF81C\\uF81B\\uF818\\uF804%s",
+    "fr": null
+  },
+  "space.-550": {
+    "en": "\\uF81E\\uF81A\\uF806%s",
+    "fr": null
+  },
+  "space.-700": {
+    "en": "\\uF81E\\uF81C\\uF81A\\uF819\\uF818\\uF804%s",
+    "fr": null
+  },
+  "space.-900": {
+    "en": "\\uF81E\\uF81D\\uF81C\\uF804%s",
+    "fr": null
+  },
+  "space.-1024": {
+    "en": "\\uF80F%s",
+    "fr": null
+  }
+}

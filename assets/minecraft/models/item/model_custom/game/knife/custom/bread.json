@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/knife/knifebread"
+	},
+	"gui_light" : "front",
+	"display": {
+		"head": {
+			"rotation":  [ 90, 90, 45 ],
+			"translation":  [ 0, -4.173, -6.956 ]
+		},
+		"fixed": {
+			"rotation":  [ -90, 180, 0 ],
+			"translation":  [ 0, 0, -6.955 ]
+		}
+	}
+}

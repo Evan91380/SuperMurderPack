@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:minimap/pacman.png",
+            "height": 300,
+            "ascent": 5,
+            "chars": [
+                "\u0001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:minimap/pacman.png",
+            "height": 175,
+            "ascent": 5,
+            "chars": [
+                "\u0002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:minimap/pacman.png",
+            "height": 120,
+            "ascent": 5,
+            "chars": [
+                "\u0003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:minimap/pacman.png",
+            "height": 105,
+            "ascent": 5,
+            "chars": [
+                "\u0004"
+            ]
+        }
+    ]
+}

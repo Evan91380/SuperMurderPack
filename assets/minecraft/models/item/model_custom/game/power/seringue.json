@@ -1,0 +1,91 @@
+{
+	"__comment": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/yellow_stained_glass",
+		"vitrejaune": "block/yellow_stained_glass",
+		"fer": "block/iron_block",
+		"blanc": "block/white_terracotta"
+	},
+	"gui_light" : "front",
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 8, 5, 7.5 ],
+			"to": [ 9, 6, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 8, 7.5, 9, 8.5 ], "texture": "#blanc" },
+				"north": { "uv": [ 7, 10, 8, 11 ], "texture": "#blanc" },
+				"south": { "uv": [ 8, 10, 9, 11 ], "texture": "#blanc" },
+				"west": { "uv": [ 7.5, 10, 8.5, 11 ], "texture": "#blanc" },
+				"east": { "uv": [ 7.5, 10, 8.5, 11 ], "texture": "#blanc" }
+			}
+		},
+		{
+			"__comment": "Box3",
+			"from": [ 8.25, 3, 7.75 ],
+			"to": [ 8.75, 5, 8.25 ],
+			"faces": {
+				"down": { "uv": [ 8.25, 7.75, 8.75, 8.25 ], "texture": "#fer" },
+				"north": { "uv": [ 7.25, 11, 7.75, 13 ], "texture": "#fer" },
+				"south": { "uv": [ 8.25, 11, 8.75, 13 ], "texture": "#fer" },
+				"west": { "uv": [ 7.75, 11, 8.25, 13 ], "texture": "#fer" },
+				"east": { "uv": [ 7.75, 11, 8.25, 13 ], "texture": "#fer" }
+			}
+		},
+		{
+			"__comment": "Box5",
+			"from": [ 7.5, 6, 7 ],
+			"to": [ 9.5, 12.5, 9 ],
+			"faces": {
+				"down": { "uv": [ 7.5, 7, 9.5, 9 ], "texture": "#vitrejaune" },
+				"north": { "uv": [ 6.5, 3.5, 8.5, 10 ], "texture": "#vitrejaune" },
+				"south": { "uv": [ 7.5, 3.5, 9.5, 10 ], "texture": "#vitrejaune" },
+				"west": { "uv": [ 7, 3.5, 9, 10 ], "texture": "#vitrejaune" },
+				"east": { "uv": [ 7, 3.5, 9, 10 ], "texture": "#vitrejaune" }
+			}
+		},
+		{
+			"__comment": "Box6",
+			"from": [ 7, 12, 6.5 ],
+			"to": [ 10, 13, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 7, 6.5, 10, 9.5 ], "texture": "#blanc" },
+				"up": { "uv": [ 7, 6.5, 10, 9.5 ], "texture": "#blanc" },
+				"north": { "uv": [ 6, 3, 9, 4 ], "texture": "#blanc" },
+				"south": { "uv": [ 7, 3, 10, 4 ], "texture": "#blanc" },
+				"west": { "uv": [ 6.5, 3, 9.5, 4 ], "texture": "#blanc" },
+				"east": { "uv": [ 6.5, 3, 9.5, 4 ], "texture": "#blanc" }
+			}
+		},
+		{
+			"__comment": "Box7",
+			"from": [ 8, 13, 7.5 ],
+			"to": [ 9, 15, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 7, 1, 8, 3 ], "texture": "#fer" },
+				"south": { "uv": [ 8, 1, 9, 3 ], "texture": "#fer" },
+				"west": { "uv": [ 7.5, 1, 8.5, 3 ], "texture": "#fer" },
+				"east": { "uv": [ 7.5, 1, 8.5, 3 ], "texture": "#fer" }
+			}
+		},
+		{
+			"__comment": "Box8",
+			"from": [ 7, 15, 6.5 ],
+			"to": [ 10, 16, 9.5 ],
+			"faces": {
+				"down": { "uv": [ 7, 6.5, 10, 9.5 ], "texture": "#blanc" },
+				"up": { "uv": [ 7, 6.5, 10, 9.5 ], "texture": "#blanc" },
+				"north": { "uv": [ 6, 0, 9, 1 ], "texture": "#blanc" },
+				"south": { "uv": [ 7, 0, 10, 1 ], "texture": "#blanc" },
+				"west": { "uv": [ 6.5, 0, 9.5, 1 ], "texture": "#blanc" },
+				"east": { "uv": [ 6.5, 0, 9.5, 1 ], "texture": "#blanc" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation":  [ -0.695, -0.694, 1.3913 ],
+			"scale":  [ 0.0001, 0.0001, 0.0001 ]
+		}
+	}
+}

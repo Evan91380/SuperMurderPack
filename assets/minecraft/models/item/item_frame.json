@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/item_frame"
+    },
+    "gui_light" : "front",
+	"overrides":[
+        {"predicate":{"custom_model_data":1}, "model": "item/model_custom/game/shop/piege_a_ours"}
+	]
+}

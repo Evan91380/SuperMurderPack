@@ -1,0 +1,7 @@
+{
+	"parent": "item/model_custom/game/knife/custom/bread",
+	"textures": {
+		"layer0": "item/knife/bugbread"
+	},
+	"gui_light" : "front"
+}

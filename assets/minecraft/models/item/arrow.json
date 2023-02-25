@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/arrow"
+    },
+	"overrides":[
+		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/deco/fleche/flecherouge"},
+		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/deco/fleche/flechebleu"},
+		{"predicate":{"custom_model_data":3}, "model": "item/model_custom/deco/fleche/flechebleu2"},
+		{"predicate":{"custom_model_data":4}, "model": "item/model_custom/deco/fleche/croix"}
+	]
+}

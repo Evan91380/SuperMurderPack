@@ -1,0 +1,18 @@
+{
+	"parent": "block/command_block",
+	"overrides":[
+		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/game/hat/kappa"},
+		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/game/hat/toilette"},
+		{"predicate":{"custom_model_data":3}, "model": "item/model_custom/game/hat/evan"},
+		{"predicate":{"custom_model_data":4}, "model": "item/model_custom/game/hat/redcoal"},
+		{"predicate":{"custom_model_data":5}, "model": "item/model_custom/game/hat/astronaute-casque"},
+		{"predicate":{"custom_model_data":6}, "model": "item/model_custom/game/hat/tophat"},
+		{"predicate":{"custom_model_data":7}, "model": "item/model_custom/game/hat/rick"},
+		{"predicate":{"custom_model_data":8}, "model": "item/model_custom/game/hat/renardears"},
+		{"predicate":{"custom_model_data":9}, "model": "item/model_custom/game/hat/aureole"},
+		{"predicate":{"custom_model_data":10}, "model": "item/model_custom/game/hat/devil_horns"},
+		{"predicate":{"custom_model_data":11}, "model": "item/model_custom/game/hat/cake"},
+		{"predicate":{"custom_model_data":666}, "model": "item/model_custom/game/hat/evanredcoal"},
+		{"predicate":{"custom_model_data":667}, "model": "item/model_custom/game/hat/redcoalevan"}
+	]
+}

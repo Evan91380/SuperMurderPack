@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/egg"
+    },
+	"gui_light" : "front",
+	"overrides":[
+		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/easter/egg1"},
+		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/easter/egg2"},
+		{"predicate":{"custom_model_data":3}, "model": "item/model_custom/easter/egg3"},
+		{"predicate":{"custom_model_data":4}, "model": "item/model_custom/easter/egg4"},
+		{"predicate":{"custom_model_data":5}, "model": "item/model_custom/easter/egg5"},
+		{"predicate":{"custom_model_data":6}, "model": "item/model_custom/easter/egg6"},
+		{"predicate":{"custom_model_data":7}, "model": "item/model_custom/easter/egg7"}
+	]
+}

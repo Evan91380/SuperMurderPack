@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+        "layer0": "item/leather_horse_armor"
+  },
+    "overrides": [
+      {"predicate":{"custom_model_data":1}, "model": "item/model_custom/christmas/gift"},
+      {"predicate":{"custom_model_data":2}, "model": "item/model_custom/christmas/gift_small"},
+      {"predicate":{"custom_model_data":3}, "model": "item/model_custom/game/hat/astronaute-casque"},
+      {"predicate":{"custom_model_data":4}, "model": "item/model_custom/game/dead/deadblanc"}
+    ]
+}

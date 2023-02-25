@@ -1,0 +1,7 @@
+{
+	"parent" : "item/model_custom/game/flingue/gun2",
+	"textures": {
+		"iron": "block/gold_block"
+    },
+	"gui_light" : "front"
+}

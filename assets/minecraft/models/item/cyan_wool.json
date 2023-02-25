@@ -1,0 +1,30 @@
+{
+    "parent": "minecraft:block/cyan_wool",
+	"overrides":[
+        {"predicate":{"custom_model_data":-3}, "model": "item/model_custom/deco/tech/tv/journal/bip"},
+        {"predicate":{"custom_model_data":-2}, "model": "item/model_custom/deco/tech/tv/journal/intro_news"},
+        {"predicate":{"custom_model_data":-1}, "model": "item/model_custom/deco/tech/tv/journal/breaking_news"},
+
+        {"predicate":{"custom_model_data":0}, "model": "block/cyan_wool"},
+
+        {"predicate":{"custom_model_data":1}, "model": "item/model_custom/deco/tech/tv/pub/knife"},
+        {"predicate":{"custom_model_data":2}, "model": "item/model_custom/deco/tech/tv/pub/deagle"},
+        {"predicate":{"custom_model_data":3}, "model": "item/model_custom/deco/tech/tv/pub/screen"},
+        {"predicate":{"custom_model_data":4}, "model": "item/model_custom/deco/tech/tv/pub/toilet"},
+        {"predicate":{"custom_model_data":5}, "model": "item/model_custom/deco/tech/tv/pub/pissoir"},
+        {"predicate":{"custom_model_data":6}, "model": "item/model_custom/deco/tech/tv/pub/supermurder"},
+        {"predicate":{"custom_model_data":7}, "model": "item/model_custom/deco/tech/tv/pub/dataworld"},
+        {"predicate":{"custom_model_data":8}, "model": "item/model_custom/deco/tech/tv/pub/tv"},
+        {"predicate":{"custom_model_data":9}, "model": "item/model_custom/deco/tech/tv/pub/villa"}, 
+        {"predicate":{"custom_model_data":10}, "model": "item/model_custom/deco/tech/tv/pub/manoir"},
+
+        {"predicate":{"custom_model_data":101}, "model": "item/model_custom/deco/tech/tv/pub/manoir"},
+        {"predicate":{"custom_model_data":102}, "model": "item/model_custom/deco/tech/tv/pub/manoir"},
+        {"predicate":{"custom_model_data":103}, "model": "item/model_custom/deco/tech/tv/pub/manoir"},
+        {"predicate":{"custom_model_data":104}, "model": "item/model_custom/deco/tech/tv/pub/manoir"},
+
+
+
+        {"predicate":{"custom_model_data":10000}, "model": "item/model_custom/deco/tech/tv/pub/rick"}
+	]
+}

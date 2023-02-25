@@ -1,0 +1,46 @@
+{
+	"__comment": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/cake_side",
+		"bottom": "block/cake_bottom",
+		"top": "block/cake_top",
+		"side": "block/cake_side",
+		"head": "hat/steve"
+	},
+	"gui_light" : "front",
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 1, 16, 1 ],
+			"to": [ 15, 24, 15 ],
+			"faces": {
+				"down": { "uv": [ 1, 1, 15, 15 ], "texture": "#bottom", "cullface": "down" },
+				"up": { "uv": [ 1, 1, 15, 15 ], "texture": "#top" },
+				"north": { "uv": [ 1, 8, 15, 16 ], "texture": "#side" },
+				"south": { "uv": [ 1, 8, 15, 16 ], "texture": "#side" },
+				"west": { "uv": [ 1, 8, 15, 16 ], "texture": "#side" },
+				"east": { "uv": [ 1, 8, 15, 16 ], "texture": "#side" }
+			}
+		},
+		{
+			"__comment": "Box2",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 8, 0, 12, 8 ], "texture": "#head" },
+				"up": { "uv": [ 4, 0, 8, 8 ], "texture": "#head" },
+				"north": { "uv": [ 4, 8, 8, 16 ], "texture": "#head" },
+				"south": { "uv": [ 12, 8, 16, 16 ], "texture": "#head" },
+				"west": { "uv": [ 8, 8, 12, 16 ], "texture": "#head" },
+				"east": { "uv": [ 0, 8, 4, 16 ], "texture": "#head" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 5, 161, 3 ],
+			"translation":  [ 0, -2.782, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/advancement/here_we_go"
+    },
+    "gui_light" : "front"
+}

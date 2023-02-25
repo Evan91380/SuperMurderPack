@@ -1,0 +1,135 @@
+{
+	"__comment": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"fer": "block/iron_block",
+		"feu": "block/campfire_fire",
+		"gray": "block/gray_concrete",
+		"MurderInc": "block/other/murderinc"
+	},
+	"gui_light" : "front",
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 3, 0, 0 ],
+			"to": [ 13, 10, 4 ],
+			"faces": {
+				"down": { "uv": [ 3, 11, 13, 15 ], "texture": "#fer" },
+				"up": { "uv": [ 3.5, 1.5, 13.5, 5.5 ], "texture": "#fer" },
+				"north": { "uv": [ 2.5, 5.5, 12.5, 15.5 ], "texture": "#fer" },
+				"south": { "uv": [ 3, 5, 13, 15 ], "texture": "#fer" },
+				"west": { "uv": [ 0.5, 5.5, 4.5, 15.5 ], "texture": "#fer" },
+				"east": { "uv": [ 11.5, 5.5, 15.5, 15.5 ], "texture": "#fer" }
+			}
+		},
+		{
+			"__comment": "Box3",
+			"from": [ 2.5, 10, 0 ],
+			"to": [ 3, 10.5, 4 ],
+			"faces": {
+				"down": { "uv": [ 2.5, 12, 3, 16 ], "texture": "#gray" },
+				"up": { "uv": [ 2.5, 0, 3, 4 ], "texture": "#gray" },
+				"north": { "uv": [ 13, 5.5, 13.5, 6 ], "texture": "#gray" },
+				"south": { "uv": [ 2.5, 5.5, 3, 6 ], "texture": "#gray" },
+				"west": { "uv": [ 0, 5.5, 4, 6 ], "texture": "#gray" },
+				"east": { "uv": [ 12, 5.5, 16, 6 ], "texture": "#gray" }
+			}
+		},
+		{
+			"__comment": "Box5",
+			"from": [ -2.5, 10.5, 0 ],
+			"to": [ 2.5, 20.5, 4 ],
+			"faces": {
+				"down": { "uv": [ 1, 1, 2, 6 ], "texture": "#fer", "rotation": 90 },
+				"up": { "uv": [ 15, 6, 14, 1 ], "texture": "#fer", "rotation": 270 },
+				"north": { "uv": [ 1, 1.5, 11, 6.5 ], "texture": "#fer", "rotation": 270 },
+				"south": { "uv": [ 3, 1, 13, 6 ], "texture": "#fer", "rotation": 90 },
+				"west": { "uv": [ 3, 1, 13, 2 ], "texture": "#fer", "rotation": 90 },
+				"east": { "uv": [ 13, 15, 3, 14 ], "texture": "#fer", "rotation": 270 }
+			}
+		},
+		{
+			"__comment": "Box6",
+			"from": [ 6, 10.5, 0.5 ],
+			"to": [ 10, 13.5, 3.5 ],
+			"faces": {
+				"down": { "uv": [ 6, 12.5, 10, 15.5 ], "texture": "#fer" },
+				"up": { "uv": [ 6, 0.5, 10, 3.5 ], "texture": "#fer" },
+				"north": { "uv": [ 6, 2.5, 10, 5.5 ], "texture": "#fer" },
+				"south": { "uv": [ 6, 2.5, 10, 5.5 ], "texture": "#fer" },
+				"west": { "uv": [ 0.5, 2.5, 3.5, 5.5 ], "texture": "#fer" },
+				"east": { "uv": [ 12.5, 2.5, 15.5, 5.5 ], "texture": "#fer" }
+			}
+		},
+		{
+			"__comment": "Box7",
+			"from": [ 3.5, 10, 0.5 ],
+			"to": [ 12.5, 10.5, 3.5 ],
+			"faces": {
+				"down": { "uv": [ 3.5, 12.5, 12.5, 15.5 ], "texture": "#fer" },
+				"up": { "uv": [ 3.5, 0.5, 12.5, 3.5 ], "texture": "#fer" },
+				"north": { "uv": [ 3.5, 5.5, 12.5, 6 ], "texture": "#fer" },
+				"south": { "uv": [ 3.5, 5.5, 12.5, 6 ], "texture": "#fer" },
+				"west": { "uv": [ 0.5, 5.5, 3.5, 6 ], "texture": "#fer" },
+				"east": { "uv": [ 12.5, 5.5, 15.5, 6 ], "texture": "#fer" }
+			}
+		},
+		{
+			"__comment": "Box8",
+			"from": [ 9.5, 11, 1.5 ],
+			"to": [ 11, 13, 2.5 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 13.5, 11, 14.5 ], "texture": "#gray" },
+				"up": { "uv": [ 9.5, 1.5, 11, 2.5 ], "texture": "#gray" },
+				"north": { "uv": [ 5, 3, 6.5, 5 ], "texture": "#gray" },
+				"south": { "uv": [ 9.5, 3, 11, 5 ], "texture": "#gray" },
+				"west": { "uv": [ 1.5, 3, 2.5, 5 ], "texture": "#gray" },
+				"east": { "uv": [ 13.5, 3, 14.5, 5 ], "texture": "#gray" }
+			}
+		},
+		{
+			"__comment": "Box9",
+			"from": [ 6, 13.5, 2 ],
+			"to": [ 10, 18, 2.001 ],
+			"faces": {
+				"down": { "uv": [ 6, 13.5, 10, 14.5 ], "texture": "#feu" },
+				"up": { "uv": [ 4, 8, 5, 9 ], "texture": "#feu" },
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#feu" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#feu" },
+				"west": { "uv": [ 1.5, 0, 2.5, 2.5 ], "texture": "#feu" },
+				"east": { "uv": [ 13.5, 0, 14.5, 2.5 ], "texture": "#feu" }
+			}
+		},
+		{
+			"__comment": "PlaneZ11",
+			"from": [ 3, 0, -0.01 ],
+			"to": [ 5.5, 0.5, -0.009 ],
+			"faces": {
+				"north": { "uv": [ 0, 6.5, 16, 9 ], "texture": "#MurderInc" },
+				"south": { "uv": [ 9.5, 15, 13, 16 ], "texture": "#MurderInc" }
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation":  [ 0, -90, 0 ],
+			"translation":  [ -2.086, 0.6956, 0.6956 ],
+			"scale":  [ 0.3, 0.3, 0.3 ]
+		},
+		"firstperson_righthand": {
+			"rotation":  [ -27, -90, 0 ],
+			"translation":  [ -4.173, 2, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"gui": {
+			"rotation":  [ 14, 9, -13 ],
+			"translation":  [ 0, -2.086, 0 ],
+			"scale":  [ 0.5, 0.5, 0.5 ]
+		},
+		"ground": {
+			"translation":  [ 0, 14.608, 0 ]
+		},
+		"fixed": {
+			"translation":  [ 0, 0, 6.2608 ]
+		}
+	}
+}

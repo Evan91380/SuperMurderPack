@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/advancement/oof"
+    },
+    "gui_light" : "front"
+}

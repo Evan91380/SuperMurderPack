@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/red_wool",
+	"overrides":[
+        {"predicate":{"custom_model_data":0}, "model": "block/red_wool"},
+
+        {"predicate":{"custom_model_data":10}, "model": "item/model_custom/christmas/christmas_tree"}
+	]
+}

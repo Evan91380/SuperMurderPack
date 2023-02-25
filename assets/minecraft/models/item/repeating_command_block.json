@@ -1,0 +1,7 @@
+{
+    "parent": "block/repeating_command_block",
+	"overrides":[
+		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/spawn/evan"},
+		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/spawn/redcoal"}
+	]
+}

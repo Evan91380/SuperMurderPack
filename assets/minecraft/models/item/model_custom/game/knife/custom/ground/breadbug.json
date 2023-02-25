@@ -1,0 +1,11 @@
+{
+	"parent" : "item/model_custom/game/knife/custom/breadbug",
+	"__comment": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
+	"display": {
+		"head": {
+			"rotation":  [ 90, 0, 45 ],
+			"translation":  [ 0, -32, 0 ],
+			"scale":  [ 1.5, 1.5, 1.5 ]
+		}
+	}
+}
