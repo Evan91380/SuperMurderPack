@@ -1,6 +1,7 @@
 {
 	"credit": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
 	"textures": {
+		"4": "block/tech/telephonenombre",
 		"blanc": "block/quartz_block_side",
 		"particle": "block/gold_block"
 	},
@@ -17,6 +18,15 @@
 				"west": {"uv": [0, 0, 6, 1], "texture": "#blanc"},
 				"up": {"uv": [0, 0, 6, 1], "texture": "#blanc"},
 				"down": {"uv": [0, 0, 6, 1], "texture": "#blanc"}
+			}
+		},
+		{
+			"name": "nombre",
+			"from": [6.225, 3.54086, 5.92322],
+			"to": [9.725, 3.54086, 9.52322],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7.975, 4.61586, 7.72322]},
+			"faces": {
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#4"}
 			}
 		},
 		{
@@ -207,7 +217,7 @@
 			"color": 0,
 			"nbt": "{}",
 			"armAnimationEnabled": false,
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 		}
 	]
 }
