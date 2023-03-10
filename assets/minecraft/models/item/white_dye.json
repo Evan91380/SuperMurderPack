@@ -1,0 +1,36 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:item/model_custom/deco/bathroom/toilette/animtest/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:item/model_custom/deco/bathroom/toilette/animtest/eau"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/model_custom/deco/bathroom/toilette/animtest/bouton"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"c86c2f94-dc36-70e1-6e2a-ef09db219671": {
+				"name": "toiletteanim",
+				"usedIDs": [
+					[1, 3]
+				]
+			}
+		}
+	}
+}

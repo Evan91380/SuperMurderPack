@@ -74,6 +74,10 @@
 		{"predicate":{"custom_model_data":66}, "model": "item/model_custom/deco/other/case1"},
 		{"predicate":{"custom_model_data":67}, "model": "item/model_custom/deco/other/case2"},
 		{"predicate":{"custom_model_data":68}, "model": "item/model_custom/deco/credit"},
+		{"predicate":{"custom_model_data":69}, "model": "item/model_custom/deco/other/door_moon"},
+
+
+
 		{"predicate":{"custom_model_data":1111}, "model": "item/model_custom/game/tp/nokia3310"}
 	]
 }
