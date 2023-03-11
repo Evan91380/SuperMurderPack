@@ -21,6 +21,18 @@
 				"custom_model_data": 3
 			},
 			"model": "minecraft:item/model_custom/deco/bathroom/toilette/animtest/bouton"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:item/model_custom/deco/anim/door_moon/door_frame"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:item/model_custom/deco/anim/door_moon/forcefield"
 		}
 	],
 	"aj": {
@@ -29,6 +41,12 @@
 				"name": "toiletteanim",
 				"usedIDs": [
 					[1, 3]
+				]
+			},
+			"483a5004-25b4-011c-3b88-cb69da46567f": {
+				"name": "door_moon_converted",
+				"usedIDs": [
+					[4, 5]
 				]
 			}
 		}
