@@ -1,0 +1,45 @@
+{
+	"credit": "Made by Evan",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "block/other/forcefield",
+		"particle": "block/gray_concrete"
+	},
+	"elements": [
+		{
+			"from": [-9.65, -11.55, 2],
+			"to": [25.3, 24.4, 4],
+			"faces": {
+				"north": {"uv": [0, 0, 4.375, 4.375], "texture": "#1"},
+				"east": {"uv": [4.375, 0, 4.625, 4.375], "texture": "#1"},
+				"south": {"uv": [0, 4.375, 4.375, 8.75], "texture": "#1"},
+				"west": {"uv": [4.375, 4.375, 4.625, 8.75], "texture": "#1"},
+				"up": {"uv": [9, 0.25, 4.625, 0], "texture": "#1"},
+				"down": {"uv": [9, 0.25, 4.625, 0.5], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [18, -26, 0],
+			"translation": [-0.25, 0, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"fixed": {
+			"rotation": [90, 180, 180],
+			"translation": [0.75, 0.25, -52.5],
+			"scale": [2.7, 2.7, 2.2]
+		}
+	},
+	"groups": [
+		{
+			"name": "forcefield",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [0]
+		}
+	]
+}
