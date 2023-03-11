@@ -26,13 +26,13 @@
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "minecraft:item/model_custom/deco/test/door_frame"
+			"model": "item/model_custom/deco/other/door_moon/door_frame"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 5
 			},
-			"model": "minecraft:item/model_custom/deco/test/forcefield"
+			"model": "item/model_custom/deco/other/door_moon/forcefield"
 		}
 	],
 	"aj": {
