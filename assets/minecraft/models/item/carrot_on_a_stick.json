@@ -44,6 +44,7 @@
 		{"predicate":{"custom_model_data":404}, "model": "item/model_custom/game/knife/custom/bigblade"},
 		{"predicate":{"custom_model_data":405}, "model": "item/model_custom/game/knife/custom/wolverine"},
 		{"predicate":{"custom_model_data":406}, "model": "item/model_custom/game/knife/custom/tronconneuse"},
+		{"predicate":{"custom_model_data":407}, "model": "item/model_custom/game/knife/custom/master_sword"},
 
 
 
