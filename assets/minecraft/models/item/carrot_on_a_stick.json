@@ -52,6 +52,7 @@
 		{"predicate":{"custom_model_data":501}, "model": "item/model_custom/game/flingue/custom/hitman"},
 		{"predicate":{"custom_model_data":502}, "model": "item/model_custom/game/flingue/custom/numberone"},
 		{"predicate":{"custom_model_data":503}, "model": "item/model_custom/game/flingue/custom/bfg"},
+		{"predicate":{"custom_model_data":504}, "model": "item/model_custom/game/flingue/custom/rpg"},
 
 
 
