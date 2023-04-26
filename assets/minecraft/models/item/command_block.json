@@ -1,6 +1,7 @@
 {
 	"parent": "block/command_block",
 	"overrides":[
+		{"predicate":{"custom_model_data":-1}, "model": "item/model_custom/game/hat/base"},
 		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/game/hat/kappa"},
 		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/game/hat/toilette"},
 		{"predicate":{"custom_model_data":3}, "model": "item/model_custom/game/hat/evan"},

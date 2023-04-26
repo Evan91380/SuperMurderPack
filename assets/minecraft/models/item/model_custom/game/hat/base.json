@@ -1,0 +1,29 @@
+{
+	"credit": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"steve": "hat/steve"
+	},
+	"elements": [
+		{
+			"name": "Box7",
+			"from": [0, -16, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [12, 8, 16, 16], "texture": "#steve"},
+				"east": {"uv": [8, 8, 12, 16], "texture": "#steve"},
+				"south": {"uv": [4, 8, 8, 16], "texture": "#steve"},
+				"west": {"uv": [0, 8, 4, 16], "texture": "#steve"},
+				"up": {"uv": [4, 0, 8, 8], "texture": "#steve"},
+				"down": {"uv": [8, 0, 12, 8], "texture": "#steve"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 14, 0],
+			"scale": [0.91, 0.91, 0.91]
+		}
+	}
+}
