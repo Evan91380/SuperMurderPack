@@ -19,6 +19,11 @@
       "type": "directory",
       "source": "tp",
       "prefix": "tp/"
+    },
+    {
+      "type": "directory",
+      "source": "font",
+      "prefix": "font/"
     }
   ]
 }

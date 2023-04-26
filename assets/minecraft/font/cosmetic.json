@@ -1,0 +1,22 @@
+{  
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:random/arrow_left.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "<"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/arrow_right.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ">"
+            ]
+        }
+    ]
+}
