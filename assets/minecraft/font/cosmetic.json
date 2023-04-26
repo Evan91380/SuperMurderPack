@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:random/arrow_left.png",
+            "file": "minecraft:font/cosmetic/arrow_left.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -11,11 +11,29 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:font/arrow_right.png",
+            "file": "minecraft:font/cosmetic/arrow_right.png",
             "ascent": 8,
             "height": 8,
             "chars": [
                 ">"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cosmetic/uncheck.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "o"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cosmetic/check.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "x"
             ]
         }
     ]
