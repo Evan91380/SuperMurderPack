@@ -1,7 +1,6 @@
 {
 	"parent": "block/command_block",
 	"overrides":[
-		{"predicate":{"custom_model_data":-1}, "model": "item/model_custom/game/hat/base"},
 		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/game/hat/kappa"},
 		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/game/hat/toilette"},
 		{"predicate":{"custom_model_data":3}, "model": "item/model_custom/game/hat/evan"},
@@ -13,6 +12,7 @@
 		{"predicate":{"custom_model_data":9}, "model": "item/model_custom/game/hat/aureole"},
 		{"predicate":{"custom_model_data":10}, "model": "item/model_custom/game/hat/devil_horns"},
 		{"predicate":{"custom_model_data":11}, "model": "item/model_custom/game/hat/cake"},
+		{"predicate":{"custom_model_data":665}, "model": "item/model_custom/game/hat/base"},
 		{"predicate":{"custom_model_data":666}, "model": "item/model_custom/game/hat/evanredcoal"},
 		{"predicate":{"custom_model_data":667}, "model": "item/model_custom/game/hat/redcoalevan"}
 	]
