@@ -55,6 +55,8 @@
 		{"predicate":{"custom_model_data":504}, "model": "item/model_custom/game/flingue/custom/rpg"},
 
 
+		{"predicate":{"custom_model_data":666}, "model": "item/model_custom/game/power/invisible"},
+
 
 		{"predicate":{"custom_model_data":1000}, "model": "item/model_custom/deco/fleche/croix"},
 		{"predicate":{"custom_model_data":1403}, "model": "item/model_custom/game/knife/custom/breadbug"},
