@@ -35,6 +35,25 @@
             "chars": [
                 "x"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cosmetic/knife.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "k"
+            ]
+        } ,
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cosmetic/gun.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "g"
+            ]
         }
+        
     ]
 }
