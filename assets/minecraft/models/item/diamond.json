@@ -9,6 +9,8 @@
 		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/random/knife"},
 		{"predicate":{"custom_model_data":3}, "model": "item/model_custom/random/flingue"},
     {"predicate":{"custom_model_data":4}, "model": "item/model_custom/random/leaderboard"},
-    {"predicate":{"custom_model_data":5}, "model": "item/model_custom/random/ocean"}
+    {"predicate":{"custom_model_data":5}, "model": "item/model_custom/random/ocean"},
+
+    {"predicate":{"custom_model_data":666}, "model": "item/model_custom/game/hat/base"}
 	]
 }
