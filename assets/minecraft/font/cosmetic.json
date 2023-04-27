@@ -40,7 +40,7 @@
             "type": "bitmap",
             "file": "minecraft:font/cosmetic/knife.png",
             "ascent": 8,
-            "height": 8,
+            "height": 16,
             "chars": [
                 "k"
             ]
@@ -49,9 +49,18 @@
             "type": "bitmap",
             "file": "minecraft:font/cosmetic/gun.png",
             "ascent": 8,
-            "height": 8,
+            "height": 16,
             "chars": [
                 "g"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cosmetic/tp.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "t"
             ]
         }
         
