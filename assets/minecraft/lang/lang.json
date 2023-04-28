@@ -947,9 +947,29 @@
     "en": "Random gun",
     "fr": "Flingue aléatoire"
   },
+  "cosmetic.knife.selection": {
+    "en": "Knife Selection",
+    "fr": "Selection du couteau"
+  },
+  "cosmetic.gun.selection": {
+    "en": "Gun Selection",
+    "fr": "Selection du flingue"
+  },
+  "cosmetic.hat.selection": {
+    "en": "Hat Selection",
+    "fr": "Selection du chapeau"
+  },
+  "cosmetic.use.main": {
+    "en": "Use as cosmetic\\n",
+    "fr": "Utilisé en cosmetique\\n"
+  },
+  "cosmetic.use.random": {
+    "en": "Use in random",
+    "fr": "Utilisé dans l'aleatoire"
+  },
   "Website": {
     "en": "\\nWebsite",
-    "fr": "\\nWebsite"
+    "fr": "\\nSite Web"
   },
   "shop.lighter.name": {
     "en": "§aLighter §6(%s §6gold)",
@@ -1305,23 +1325,19 @@
   },
   "advancement.hat.kappa.name": {
     "en": "Kappa",
-    "fr": "Kappa"
-  },
-  "advancement.hat.kappa.desc": {
-    "en": "???",
     "fr": null
   },
   "inventory.hat.kappa.name": {
     "en": "Kappa",
-    "fr": "Kappa"
+    "fr": null
   },
   "advancement.hat.toilet.name": {
     "en": "Toilet",
     "fr": "Toilette"
   },
   "advancement.hat.toilet.desc": {
-    "en": "???",
-    "fr": null
+    "en": "Gotta find'em all",
+    "fr": "Trouve les toute !"
   },
   "inventory.hat.toilet.name": {
     "en": "Toilet",
@@ -1492,32 +1508,32 @@
     "fr": "Grosse épée"
   },
   "inventory.knife.claw.name": {
-    "en": "Wolferine's Claw",
-    "fr": null
+    "en": "Wolverine's Claw",
+    "fr": "Griffes de Wolverine"
   },
   "advancement.knife.claw.name": {
-    "en": "????",
-    "fr": null
+    "en": "The Wolverine",
+    "fr": "Wolverine"
   },
   "advancement.knife.claw.desc": {
-    "en": "???",
-    "fr": null
+    "en": "Cut trought everything",
+    "fr": "Coupe tout"
   },
   "advancement.knife.chainsaw.name": {
-    "en": "???",
-    "fr": null
+    "en": "Chainsaw",
+    "fr": "Tronçonneuse"
   },
   "advancement.knife.chainsaw.desc": {
-    "en": "????",
-    "fr": null
+    "en": "Like in the movie !",
+    "fr": "Comme dans le film !"
   },
   "inventory.knife.chainsaw.name": {
     "en": "Chainsaw",
-    "fr": null
+    "fr": "Tronçonneuse"
   },
   "advancement.knife.mastersword.desc": {
-    "en": "???",
-    "fr": null
+    "en": "Legendary Hyrule sword.",
+    "fr": "Épée légendaire d'Hyrule."
   },
   "advancement.gun.root.name": {
     "en": "Gun",
@@ -1564,40 +1580,40 @@
     "fr": "Pistolet d'hitman"
   },
   "advancement.gun.numberone.name": {
-    "en": "supporter glove",
+    "en": "Supporter glove",
     "fr": "Gant de supporter"
   },
   "advancement.gun.numberone.desc": {
-    "en": "???",
-    "fr": null
+    "en": "To show your support",
+    "fr": "Pour montré ton soutien"
   },
   "inventory.gun.numberone.name": {
-    "en": "supporter glove",
+    "en": "Supporter glove",
     "fr": "Gant de supporter"
   },
-  "advancement.gun.dfg.name": {
+  "advancement.gun.bfg.name": {
     "en": "DFG",
     "fr": null
   },
-  "advancement.gun.dfg.desc": {
-    "en": "???",
-    "fr": null
+  "advancement.gun.bfg.desc": {
+    "en": "To shoot from far away!",
+    "fr": "Pour tirer de loin !"
   },
-  "inventory.gun.dfg.name": {
-    "en": "DFG",
+  "inventory.gun.bfg.name": {
+    "en": "BFG 50",
     "fr": null
   },
   "advancement.gun.rocket.name": {
     "en": "Rocket Launcher",
-    "fr": null
+    "fr": "Lance-roquettes"
   },
   "advancement.gun.rocket.desc": {
-    "en": "????",
-    "fr": null
+    "en": "A little bit overkill?",
+    "fr": "Un peu overkill ?"
   },
   "inventory.gun.rocket.name": {
-    "en": "????",
-    "fr": null
+    "en": "Rocket Launcher",
+    "fr": "Lance-roquettes"
   },
   "advancement.easter_egg.infernaton.name": {
     "en": "Infernaton?",
