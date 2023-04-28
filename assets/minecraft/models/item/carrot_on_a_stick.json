@@ -63,6 +63,7 @@
 		{"predicate":{"custom_model_data":1500}, "model": "item/model_custom/game/flingue/custom/unload/gold"},
 		{"predicate":{"custom_model_data":1501}, "model": "item/model_custom/game/flingue/custom/unload/hitman"},
 		{"predicate":{"custom_model_data":1502}, "model": "item/model_custom/game/flingue/custom/unload/numberone"},
-		{"predicate":{"custom_model_data":1503}, "model": "item/model_custom/game/flingue/custom/unload/bfg"}
+		{"predicate":{"custom_model_data":1503}, "model": "item/model_custom/game/flingue/custom/unload/bfg"},
+		{"predicate":{"custom_model_data":1504}, "model": "item/model_custom/game/flingue/custom/rpg"}
 	]
 }

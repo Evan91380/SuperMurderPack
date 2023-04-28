@@ -3,10 +3,10 @@ const fs = require("fs")
 
 let en = {}
 let fr = {}
-
+const regexReturnLine = /\\n/g
 for(let key in data) {
-    if(data[key]["en"] !== null) en[key.replace("\\n", "\n")] = data[key]["en"].replace("\\n", "\n")
-    if(data[key]["fr"] !== null) fr[key] = data[key]["fr"].replace("\\n", "\n")
+    if(data[key]["en"] !== null) en[key.replace(regexReturnLine, "\n")] = data[key]["en"].replace(regexReturnLine, "\n")
+    if(data[key]["fr"] !== null) fr[key] = data[key]["fr"].replace(regexReturnLine, "\n")
 }
 
 fs.writeFileSync(`./en_us.json`, JSON.stringify(en, null, '\t'))

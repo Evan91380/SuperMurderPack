@@ -1491,6 +1491,34 @@
     "en": "Big sword",
     "fr": "Grosse épée"
   },
+  "inventory.knife.claw.name": {
+    "en": "Wolferine's Claw",
+    "fr": null
+  },
+  "advancement.knife.claw.name": {
+    "en": "????",
+    "fr": null
+  },
+  "advancement.knife.claw.desc": {
+    "en": "???",
+    "fr": null
+  },
+  "advancement.knife.chainsaw.name": {
+    "en": "???",
+    "fr": null
+  },
+  "advancement.knife.chainsaw.desc": {
+    "en": "????",
+    "fr": null
+  },
+  "inventory.knife.chainsaw.name": {
+    "en": "Chainsaw",
+    "fr": null
+  },
+  "advancement.knife.mastersword.desc": {
+    "en": "???",
+    "fr": null
+  },
   "advancement.gun.root.name": {
     "en": "Gun",
     "fr": "Pistolet"
@@ -1504,12 +1532,12 @@
     "fr": "Arme par default"
   },
   "advancement.gun.default.desc": {
-    "en": "A deagle",
-    "fr": "Un desert Eagle"
-  },
-  "inventory.gun.default.name": {
     "en": "Because Why not ?",
     "fr": "Pourquoi pas ?"
+  },
+  "inventory.gun.default.name": {
+    "en": "Deagle",
+    "fr": "Desert Eagle"
   },
   "advancement.gun.golden.name": {
     "en": "Golden Gun",
@@ -1557,6 +1585,18 @@
   },
   "inventory.gun.dfg.name": {
     "en": "DFG",
+    "fr": null
+  },
+  "advancement.gun.rocket.name": {
+    "en": "Rocket Launcher",
+    "fr": null
+  },
+  "advancement.gun.rocket.desc": {
+    "en": "????",
+    "fr": null
+  },
+  "inventory.gun.rocket.name": {
+    "en": "????",
     "fr": null
   },
   "advancement.easter_egg.infernaton.name": {
