@@ -1,0 +1,14 @@
+{  
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:hat/kappa.png",
+            "ascent": 10,
+            "height": 16,
+            "chars": [
+                "k"
+            ]
+        }
+        
+    ]
+}
