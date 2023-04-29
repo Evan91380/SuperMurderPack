@@ -8,7 +8,15 @@
             "chars": [
                 "k"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/deco/triforce.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "t"
+            ]
         }
-        
     ]
 }
