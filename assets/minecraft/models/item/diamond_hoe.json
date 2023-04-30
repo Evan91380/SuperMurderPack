@@ -98,6 +98,9 @@
 		{"predicate":{"custom_model_data":74}, "model": "item/model_custom/deco/kitchen/multiple_mealtray"},
 		{"predicate":{"custom_model_data":75}, "model": "item/model_custom/deco/kitchen/canteen_rail"},
 
+		{"predicate":{"custom_model_data":76}, "model": "item/model_custom/deco/kitchen/table_normal"},
+		{"predicate":{"custom_model_data":77}, "model": "item/model_custom/deco/kitchen/bench"},
+
 		{"predicate":{"custom_model_data":1111}, "model": "item/model_custom/game/tp/nokia3310"}
 	]
 }
