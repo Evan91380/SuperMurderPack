@@ -36,29 +36,38 @@
 		{"predicate":{"custom_model_data":28}, "model": "item/model_custom/game/power/invisible"},
 		{"predicate":{"custom_model_data":29}, "model": "item/model_custom/game/pacman/pacman"},
 		{"predicate":{"custom_model_data":30}, "model": "item/model_custom/game/pacman/pacman1"},
+
 		{"predicate":{"custom_model_data":31}, "model": "item/model_custom/deco/mario/mario_pole"},
 		{"predicate":{"custom_model_data":32}, "model": "item/model_custom/deco/mario/mario_pipe"},
 		{"predicate":{"custom_model_data":33}, "model": "item/model_custom/deco/tech/keyboard"},
+
+
 		{"predicate":{"custom_model_data":34}, "model": "item/model_custom/deco/tech/ecran1"},
 		{"predicate":{"custom_model_data":35}, "model": "item/model_custom/deco/tech/ecran2"},
 		{"predicate":{"custom_model_data":36}, "model": "item/model_custom/deco/tech/ecran"},
+
 		{"predicate":{"custom_model_data":37}, "model": "item/model_custom/deco/stable/porteselle0"},
 		{"predicate":{"custom_model_data":38}, "model": "item/model_custom/deco/stable/porteselle1"},
+
 		{"predicate":{"custom_model_data":39}, "model": "item/model_custom/deco/stable/porteboxfermer"},
 		{"predicate":{"custom_model_data":40}, "model": "item/model_custom/deco/stable/portelicol"},
+
 		{"predicate":{"custom_model_data":41}, "model": "item/model_custom/deco/stable/obstacle1"},
 		{"predicate":{"custom_model_data":42}, "model": "item/model_custom/deco/stable/obstacle2"},
 		{"predicate":{"custom_model_data":43}, "model": "item/model_custom/deco/stable/obstacle3"},
 		{"predicate":{"custom_model_data":44}, "model": "item/model_custom/deco/stable/obstacle4"},
+
 		{"predicate":{"custom_model_data":45}, "model": "item/model_custom/deco/stable/porteboxouverte"},
 		{"predicate":{"custom_model_data":46}, "model": "item/model_custom/deco/stable/boitebrosse"},
 		{"predicate":{"custom_model_data":47}, "model": "item/model_custom/deco/stable/barley"},
 		{"predicate":{"custom_model_data":48}, "model": "item/model_custom/deco/stable/pellets"},
 		{"predicate":{"custom_model_data":49}, "model": "item/model_custom/deco/stable/mix"},
 		{"predicate":{"custom_model_data":50}, "model": "item/model_custom/deco/tech/ecran4"},
+
 		{"predicate":{"custom_model_data":51}, "model": "item/model_custom/deco/stable/stablelogo"},
 		{"predicate":{"custom_model_data":52}, "model": "item/model_custom/deco/stable/cadvice"},
 		{"predicate":{"custom_model_data":53}, "model": "item/model_custom/deco/stable/hs"},
+
 		{"predicate":{"custom_model_data":54}, "model": "item/model_custom/deco/tech/ecran5"},
 		{"predicate":{"custom_model_data":55}, "model": "item/model_custom/deco/tech/ecran51"},
 		{"predicate":{"custom_model_data":56}, "model": "item/model_custom/deco/tech/ecran6"},
@@ -67,15 +76,28 @@
 		{"predicate":{"custom_model_data":59}, "model": "item/model_custom/deco/tech/ecran71"},
 		{"predicate":{"custom_model_data":60}, "model": "item/model_custom/deco/tech/ecran8"},
 		{"predicate":{"custom_model_data":61}, "model": "item/model_custom/deco/tech/ecran81"},
+
 		{"predicate":{"custom_model_data":62}, "model": "item/model_custom/deco/furniture/conduit"},
 		{"predicate":{"custom_model_data":63}, "model": "item/model_custom/deco/tech/pismo"},
+
 		{"predicate":{"custom_model_data":64}, "model": "item/model_custom/deco/furniture/bluetable"},
 		{"predicate":{"custom_model_data":65}, "model": "item/model_custom/deco/other/doorskeld"},
+
 		{"predicate":{"custom_model_data":66}, "model": "item/model_custom/deco/other/case1"},
 		{"predicate":{"custom_model_data":67}, "model": "item/model_custom/deco/other/case2"},
+
 		{"predicate":{"custom_model_data":68}, "model": "item/model_custom/deco/credit"},
+
 		{"predicate":{"custom_model_data":69}, "model": "item/model_custom/deco/other/door_moon/door_frame"},
 		{"predicate":{"custom_model_data":70}, "model": "item/model_custom/deco/other/door_moon/forcefield"},
+
+		{"predicate":{"custom_model_data":71}, "model": "item/model_custom/deco/bathroom/shower"},
+		{"predicate":{"custom_model_data":72}, "model": "item/model_custom/deco/bathroom/drain"},
+
+		{"predicate":{"custom_model_data":73}, "model": "item/model_custom/deco/kitchen/mealtray"},
+		{"predicate":{"custom_model_data":74}, "model": "item/model_custom/deco/kitchen/multiple_mealtray"},
+		{"predicate":{"custom_model_data":75}, "model": "item/model_custom/deco/kitchen/canteen_rail"},
+
 		{"predicate":{"custom_model_data":1111}, "model": "item/model_custom/game/tp/nokia3310"}
 	]
 }
