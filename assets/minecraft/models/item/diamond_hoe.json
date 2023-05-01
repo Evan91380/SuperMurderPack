@@ -106,6 +106,10 @@
 		{"predicate":{"custom_model_data":76}, "model": "item/model_custom/deco/kitchen/table_normal"},
 		{"predicate":{"custom_model_data":77}, "model": "item/model_custom/deco/kitchen/bench"},
 
+		{"predicate":{"custom_model_data":78}, "model": "item/model_custom/deco/kitchen/mealtray/glass"},
+		{"predicate":{"custom_model_data":79}, "model": "item/model_custom/deco/kitchen/mealtray/plate"},
+
+		{"predicate":{"custom_model_data":85}, "model": "item/model_custom/deco/kitchen/mealtray/full"},
 
 
 		{"predicate":{"custom_model_data":100}, "model": "item/model_custom/deco/other/target"},
