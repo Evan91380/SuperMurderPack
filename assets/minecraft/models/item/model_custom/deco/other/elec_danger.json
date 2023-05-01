@@ -1,0 +1,55 @@
+{
+	"credit": "Made by Evan",
+	"textures": {
+		"0": "block/other/elec_danger",
+		"1": "block/other/white_bg",
+		"particle": "block/other/elec_danger"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 1],
+			"to": [13, 0, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 14, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 8, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 14, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 8.25, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 8.25, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, 24],
+			"translation": [-3, 10.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 24],
+			"translation": [-3, 10.25, 0]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"rotation": [90, 2, 0],
+			"translation": [0, -0.25, 0]
+		},
+		"head": {
+			"translation": [0, 14.5, 0.25],
+			"scale": [1, 1, 0.95]
+		},
+		"fixed": {
+			"rotation": [90, 0, 180],
+			"translation": [0, 0, -16.25],
+			"scale": [2, 2, 2]
+		}
+	}
+}

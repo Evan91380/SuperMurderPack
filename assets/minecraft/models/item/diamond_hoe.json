@@ -14,16 +14,21 @@
 		{"predicate":{"custom_model_data":7}, "model": "item/model_custom/deco/other/tardis"},
 		{"predicate":{"custom_model_data":8}, "model": "item/model_custom/deco/furniture/table"},
 		{"predicate":{"custom_model_data":9}, "model": "item/model_custom/game/hat/astronaute-casque"}, 
+
 		{"predicate":{"custom_model_data":10}, "model": "item/model_custom/deco/bathroom/pissoir"},
 		{"predicate":{"custom_model_data":11}, "model": "item/model_custom/deco/bathroom/toilette"},
 		{"predicate":{"custom_model_data":12}, "model": "item/model_custom/deco/bathroom/lavabo"},
+
 		{"predicate":{"custom_model_data":13}, "model": "item/model_custom/game/event/mine"},
 		{"predicate":{"custom_model_data":14}, "model": "item/model_custom/game/event/mine-cligno"},
+
 		{"predicate":{"custom_model_data":15}, "model": "item/model_custom/deco/other/blackhole"},
 		{"predicate":{"custom_model_data":16}, "model": "item/model_custom/deco/other/leirof"},
+
 		{"predicate":{"custom_model_data":17}, "model": "item/model_custom/game/shop/piege_a_oursfermer"},
 		{"predicate":{"custom_model_data":18}, "model": "item/model_custom/game/shop/piege_a_ours"},
 		{"predicate":{"custom_model_data":20}, "model": "item/model_custom/deco/furniture/roundtable"},
+
 		{"predicate":{"custom_model_data":21}, "model": "item/model_custom/deco/bathroom/toilette/toilette0"},
 		{"predicate":{"custom_model_data":22}, "model": "item/model_custom/deco/bathroom/toilette"},
 		{"predicate":{"custom_model_data":23}, "model": "item/model_custom/deco/bathroom/toilette/toilette1"},
@@ -100,6 +105,11 @@
 
 		{"predicate":{"custom_model_data":76}, "model": "item/model_custom/deco/kitchen/table_normal"},
 		{"predicate":{"custom_model_data":77}, "model": "item/model_custom/deco/kitchen/bench"},
+
+
+
+		{"predicate":{"custom_model_data":100}, "model": "item/model_custom/deco/other/target"},
+		{"predicate":{"custom_model_data":101}, "model": "item/model_custom/deco/other/elec_danger"},
 
 		{"predicate":{"custom_model_data":1111}, "model": "item/model_custom/game/tp/nokia3310"}
 	]
