@@ -108,6 +108,8 @@
 
 		{"predicate":{"custom_model_data":78}, "model": "item/model_custom/deco/kitchen/mealtray/glass"},
 		{"predicate":{"custom_model_data":79}, "model": "item/model_custom/deco/kitchen/mealtray/plate"},
+		{"predicate":{"custom_model_data":80}, "model": "item/model_custom/deco/kitchen/mealtray/steak"},
+		{"predicate":{"custom_model_data":81}, "model": "item/model_custom/deco/kitchen/mealtray/potato"},
 
 		{"predicate":{"custom_model_data":85}, "model": "item/model_custom/deco/kitchen/mealtray/full"},
 
