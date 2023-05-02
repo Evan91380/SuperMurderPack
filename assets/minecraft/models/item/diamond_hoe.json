@@ -53,20 +53,18 @@
 
 		{"predicate":{"custom_model_data":37}, "model": "item/model_custom/deco/stable/porteselle0"},
 		{"predicate":{"custom_model_data":38}, "model": "item/model_custom/deco/stable/porteselle1"},
-
 		{"predicate":{"custom_model_data":39}, "model": "item/model_custom/deco/stable/porteboxfermer"},
 		{"predicate":{"custom_model_data":40}, "model": "item/model_custom/deco/stable/portelicol"},
-
 		{"predicate":{"custom_model_data":41}, "model": "item/model_custom/deco/stable/obstacle1"},
 		{"predicate":{"custom_model_data":42}, "model": "item/model_custom/deco/stable/obstacle2"},
 		{"predicate":{"custom_model_data":43}, "model": "item/model_custom/deco/stable/obstacle3"},
 		{"predicate":{"custom_model_data":44}, "model": "item/model_custom/deco/stable/obstacle4"},
-
 		{"predicate":{"custom_model_data":45}, "model": "item/model_custom/deco/stable/porteboxouverte"},
 		{"predicate":{"custom_model_data":46}, "model": "item/model_custom/deco/stable/boitebrosse"},
 		{"predicate":{"custom_model_data":47}, "model": "item/model_custom/deco/stable/barley"},
 		{"predicate":{"custom_model_data":48}, "model": "item/model_custom/deco/stable/pellets"},
 		{"predicate":{"custom_model_data":49}, "model": "item/model_custom/deco/stable/mix"},
+
 		{"predicate":{"custom_model_data":50}, "model": "item/model_custom/deco/tech/ecran4"},
 
 		{"predicate":{"custom_model_data":51}, "model": "item/model_custom/deco/stable/stablelogo"},
@@ -112,11 +110,15 @@
 		{"predicate":{"custom_model_data":81}, "model": "item/model_custom/deco/kitchen/mealtray/potato"},
 
 		{"predicate":{"custom_model_data":90}, "model": "item/model_custom/deco/kitchen/mealtray/full"},
+
 		{"predicate":{"custom_model_data":91}, "model": "item/model_custom/deco/kitchen/fridge"},
 		{"predicate":{"custom_model_data":92}, "model": "item/model_custom/deco/furniture/trashbin"},
 
 		{"predicate":{"custom_model_data":100}, "model": "item/model_custom/deco/other/target"},
 		{"predicate":{"custom_model_data":101}, "model": "item/model_custom/deco/other/elec_danger"},
+		{"predicate":{"custom_model_data":102}, "model": "item/model_custom/deco/tech/gate"},
+		
+		{"predicate":{"custom_model_data":103}, "model": "item/model_custom/deco/tech/neon"},
 
 		{"predicate":{"custom_model_data":1111}, "model": "item/model_custom/game/tp/nokia3310"}
 	]
