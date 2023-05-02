@@ -111,8 +111,9 @@
 		{"predicate":{"custom_model_data":80}, "model": "item/model_custom/deco/kitchen/mealtray/steak"},
 		{"predicate":{"custom_model_data":81}, "model": "item/model_custom/deco/kitchen/mealtray/potato"},
 
-		{"predicate":{"custom_model_data":85}, "model": "item/model_custom/deco/kitchen/mealtray/full"},
-
+		{"predicate":{"custom_model_data":90}, "model": "item/model_custom/deco/kitchen/mealtray/full"},
+		{"predicate":{"custom_model_data":91}, "model": "item/model_custom/deco/kitchen/fridge"},
+		{"predicate":{"custom_model_data":92}, "model": "item/model_custom/deco/furniture/trashbin"},
 
 		{"predicate":{"custom_model_data":100}, "model": "item/model_custom/deco/other/target"},
 		{"predicate":{"custom_model_data":101}, "model": "item/model_custom/deco/other/elec_danger"},
