@@ -121,6 +121,7 @@
 		{"predicate":{"custom_model_data":103}, "model": "item/model_custom/deco/tech/neon"},
 
 		{"predicate":{"custom_model_data":104}, "model": "item/model_custom/deco/tech/controller"},
+		{"predicate":{"custom_model_data":105}, "model": "item/model_custom/deco/tech/camera"},
 
 		{"predicate":{"custom_model_data":1111}, "model": "item/model_custom/game/tp/nokia3310"}
 	]
