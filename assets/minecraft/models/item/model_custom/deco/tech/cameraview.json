@@ -1,0 +1,33 @@
+{
+	"credit": "Made by Evan",
+	"textures": {
+		"0": "block/tech/cameraview",
+		"1": "block/black_concrete",
+		"particle": "block/tech/cameraview"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 16],
+			"to": [32, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-20.48, 0, -20.48]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 0, -1.75],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"fixed": {
+			"translation": [0, -0.75, -16.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}
