@@ -5,15 +5,16 @@
     },
 	"gui_light" : "front",
 	"overrides":[
-		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/deco/furniture/transat"},
-		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/game/dead/deadrouge"},
+		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/deco/outdoor/transat"},
+
 		{"predicate":{"custom_model_data":3}, "model": "item/model_custom/deco/other/ik"},
 		{"predicate":{"custom_model_data":4}, "model": "item/model_custom/deco/tech/telephone"},
 		{"predicate":{"custom_model_data":5}, "model": "item/model_custom/deco/tech/tele"},
 		{"predicate":{"custom_model_data":6}, "model": "item/model_custom/deco/furniture/canapemanoir"},
-		{"predicate":{"custom_model_data":7}, "model": "item/model_custom/deco/other/tardis"},
+		{"predicate":{"custom_model_data":7}, "model": "item/model_custom/deco/tech/tardis"},
 		{"predicate":{"custom_model_data":8}, "model": "item/model_custom/deco/furniture/table"},
-		{"predicate":{"custom_model_data":9}, "model": "item/model_custom/game/hat/astronaute-casque"}, 
+
+		{"predicate":{"custom_model_data":9}, "model": "item/model_custom/game/hat/astronaute-casque"},
 
 		{"predicate":{"custom_model_data":10}, "model": "item/model_custom/deco/bathroom/pissoir"},
 		{"predicate":{"custom_model_data":11}, "model": "item/model_custom/deco/bathroom/toilette"},
@@ -35,8 +36,7 @@
 		{"predicate":{"custom_model_data":24}, "model": "item/model_custom/deco/bathroom/toilette/toilette2"},
 		{"predicate":{"custom_model_data":25}, "model": "item/model_custom/deco/bathroom/toilette/toilette3"},
 
-		{"predicate":{"custom_model_data":26}, "model": "item/model_custom/deco/tech/telephonepart1"},
-		{"predicate":{"custom_model_data":27}, "model": "item/model_custom/deco/tech/telephonepart2"},
+
 
 		{"predicate":{"custom_model_data":28}, "model": "item/model_custom/game/power/invisible"},
 		{"predicate":{"custom_model_data":29}, "model": "item/model_custom/game/pacman/pacman"},
@@ -44,9 +44,8 @@
 
 		{"predicate":{"custom_model_data":31}, "model": "item/model_custom/deco/mario/mario_pole"},
 		{"predicate":{"custom_model_data":32}, "model": "item/model_custom/deco/mario/mario_pipe"},
+
 		{"predicate":{"custom_model_data":33}, "model": "item/model_custom/deco/tech/keyboard"},
-
-
 		{"predicate":{"custom_model_data":34}, "model": "item/model_custom/deco/tech/ecran1"},
 		{"predicate":{"custom_model_data":35}, "model": "item/model_custom/deco/tech/ecran2"},
 		{"predicate":{"custom_model_data":36}, "model": "item/model_custom/deco/tech/ecran"},
@@ -113,6 +112,7 @@
 
 		{"predicate":{"custom_model_data":91}, "model": "item/model_custom/deco/kitchen/fridge"},
 		{"predicate":{"custom_model_data":92}, "model": "item/model_custom/deco/furniture/trashbin"},
+		{"predicate":{"custom_model_data":93}, "model": "item/model_custom/deco/kitchen/fridge2"},
 
 		{"predicate":{"custom_model_data":100}, "model": "item/model_custom/deco/other/target"},
 		{"predicate":{"custom_model_data":101}, "model": "item/model_custom/deco/other/elec_danger"},
@@ -125,7 +125,6 @@
 		{"predicate":{"custom_model_data":106}, "model": "item/model_custom/deco/tech/cameraview"},
 
 		{"predicate":{"custom_model_data":107}, "model": "item/model_custom/deco/other/tire"},
-		{"predicate":{"custom_model_data":108}, "model": "item/model_custom/deco/kitchen/fridge2"},
 
 		{"predicate":{"custom_model_data":1111}, "model": "item/model_custom/game/tp/nokia3310"}
 	]

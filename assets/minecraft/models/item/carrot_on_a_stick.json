@@ -53,6 +53,7 @@
 		{"predicate":{"custom_model_data":502}, "model": "item/model_custom/game/flingue/custom/numberone"},
 		{"predicate":{"custom_model_data":503}, "model": "item/model_custom/game/flingue/custom/bfg"},
 		{"predicate":{"custom_model_data":504}, "model": "item/model_custom/game/flingue/custom/rpg"},
+		{"predicate":{"custom_model_data":505}, "model": "item/model_custom/game/flingue/custom/revolver"},
 
 
 		{"predicate":{"custom_model_data":666}, "model": "item/model_custom/game/power/invisible"},
@@ -64,6 +65,7 @@
 		{"predicate":{"custom_model_data":1501}, "model": "item/model_custom/game/flingue/custom/unload/hitman"},
 		{"predicate":{"custom_model_data":1502}, "model": "item/model_custom/game/flingue/custom/unload/numberone"},
 		{"predicate":{"custom_model_data":1503}, "model": "item/model_custom/game/flingue/custom/unload/bfg"},
-		{"predicate":{"custom_model_data":1504}, "model": "item/model_custom/game/flingue/custom/rpg"}
+		{"predicate":{"custom_model_data":1504}, "model": "item/model_custom/game/flingue/custom/rpg"},
+		{"predicate":{"custom_model_data":1505}, "model": "item/model_custom/game/flingue/custom/unload/revolver"}
 	]
 }
