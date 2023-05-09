@@ -117,6 +117,8 @@
 
 		{"predicate":{"custom_model_data":95}, "model": "item/model_custom/deco/outdoor/bench"},
 
+		{"predicate":{"custom_model_data":96}, "model": "item/model_custom/deco/tech/led"},
+
 		{"predicate":{"custom_model_data":100}, "model": "item/model_custom/deco/other/target"},
 		{"predicate":{"custom_model_data":101}, "model": "item/model_custom/deco/other/elec_danger"},
 		{"predicate":{"custom_model_data":102}, "model": "item/model_custom/deco/tech/gate"},
