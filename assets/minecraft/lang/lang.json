@@ -4,11 +4,11 @@
     "fr": "§6§l§n§oRègles :\\n§7§oLes morts ne parlent §c§opas.\\n§7§oTout cheats ou mode de map §8§oinjuste §7§osont §c§ointerdite. \\n§7§o(Vous pouvez utilisé la minimap en jeu que nous avons ajouté) \\n§2- - Nous vous souhaitons un bon jeu - -"
   },
   "Don't forget the ressource pack!": {
-    "en": " ",
+    "en": null,
     "fr": null
   },
   "Click here to download the ressource pack!": {
-    "en": " ",
+    "en": null,
     "fr": null
   },
   "": {
@@ -1585,7 +1585,7 @@
   },
   "advancement.gun.numberone.desc": {
     "en": "To show your support",
-    "fr": "Pour montré ton soutien"
+    "fr": "Pour montrer ton soutien"
   },
   "inventory.gun.numberone.name": {
     "en": "Supporter glove",
@@ -1614,6 +1614,26 @@
   "inventory.gun.rocket.name": {
     "en": "Rocket Launcher",
     "fr": "Lance-roquettes"
+  },
+  "advancement.teleport.root.name": {
+    "en": "Teleportation",
+    "fr": "Teleportation"
+  },
+  "advancement.teleport.root.desc": {
+    "en": "Unlocked Teleport",
+    "fr": "Teleportation Debloqué"
+  },
+  "advancement.teleport.default.name": {
+    "en": "§aTeleportation",
+    "fr": "§aTéléportation"
+  },
+  "advancement.teleport.default.desc": {
+    "en": "§aTeleportation",
+    "fr": "§aTéléportation"
+  },
+  "inventory.teleport.default.name": {
+    "en": "§aTeleportation",
+    "fr": "§aTéléportation"
   },
   "advancement.easter_egg.infernaton.name": {
     "en": "Infernaton?",
@@ -1854,22 +1874,6 @@
   "inventory.cut.name": {
     "en": "§4Knife",
     "fr": "§4Couteau"
-  },
-  "inventory.teleport.name": {
-    "en": "§aTeleportation",
-    "fr": "§aTéléportation"
-  },
-  "inventory.teleport2.name": {
-    "en": "§2TelepOrtation",
-    "fr": "§2TelepOrtation"
-  },
-  "inventory.teleport3.name": {
-    "en": "§cT€l€p0rt§ka§r§4tiôn",
-    "fr": "§cT€l€p0rt§ka§r§4tiôn"
-  },
-  "inventory.teleport4.name": {
-    "en": "§4§kT€l€p00rt",
-    "fr": "§4§kT€l€p00rt"
   },
   "inventory.kit.name": {
     "en": "§4Disguise kit",
