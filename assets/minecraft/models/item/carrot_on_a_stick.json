@@ -18,10 +18,8 @@
 		{"predicate":{"custom_model_data":1}, "model": "item/model_custom/game/power/taser"},
 		{"predicate":{"custom_model_data":2}, "model": "item/model_custom/game/power/seringue"},
 		{"predicate":{"custom_model_data":3}, "model": "item/model_custom/game/power/fantome"},
-		{"predicate":{"custom_model_data":4}, "model": "item/model_custom/game/power/teleporte/teleporte1"},
-		{"predicate":{"custom_model_data":5}, "model": "item/model_custom/game/power/teleporte/teleporte2"},
-		{"predicate":{"custom_model_data":6}, "model": "item/model_custom/game/power/teleporte/teleporte3"},
-		{"predicate":{"custom_model_data":7}, "model": "item/model_custom/game/power/teleporte/teleporte4"},
+
+		
 		{"predicate":{"custom_model_data":8}, "model": "item/model_custom/game/power/transfer"},
 		{"predicate":{"custom_model_data":10}, "model": "item/model_custom/game/flingue/gun"},
 		{"predicate":{"custom_model_data":11}, "model": "item/model_custom/game/flingue/gun2"},
@@ -33,9 +31,13 @@
 
 
 
-		{"predicate":{"custom_model_data":300}, "model": "item/model_custom/game/tp/rick"},
-		{"predicate":{"custom_model_data":301}, "model": "item/model_custom/game/tp/nokia3310"},
-		
+		{"predicate":{"custom_model_data":300, "damage": 0}, "model": "item/model_custom/game/power/teleporte/teleporte1"},
+		{"predicate":{"custom_model_data":300, "damage": 0.04}, "model": "item/model_custom/game/power/teleporte/teleporte2"},
+		{"predicate":{"custom_model_data":300, "damage": 0.08}, "model": "item/model_custom/game/power/teleporte/teleporte3"},
+		{"predicate":{"custom_model_data":300, "damage": 0.12}, "model": "item/model_custom/game/power/teleporte/teleporte4"},
+
+		{"predicate":{"custom_model_data":301}, "model": "item/model_custom/game/tp/rick"},
+		{"predicate":{"custom_model_data":302}, "model": "item/model_custom/game/tp/nokia3310"},
 		
 		{"predicate":{"custom_model_data":400}, "model": "item/model_custom/game/knife/custom/gold"},
 		{"predicate":{"custom_model_data":401}, "model": "item/model_custom/game/knife/custom/hiddenblade"},
