@@ -60,7 +60,7 @@
 
 
 		{"predicate":{"custom_model_data":1000}, "model": "item/model_custom/deco/fleche/croix"},
-		{"predicate":{"custom_model_data":1020}, "model": "item/model_custom/game/shop/shieldgame"},
+		{"predicate":{"custom_model_data":1021}, "model": "item/model_custom/game/shop/shieldgame"},
 
 		{"predicate":{"custom_model_data":1403}, "model": "item/model_custom/game/knife/custom/breadbug"},
 		{"predicate":{"custom_model_data":1500}, "model": "item/model_custom/game/flingue/custom/unload/gold"},
