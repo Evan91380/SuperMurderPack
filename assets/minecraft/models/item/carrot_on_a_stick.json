@@ -60,6 +60,8 @@
 
 
 		{"predicate":{"custom_model_data":1000}, "model": "item/model_custom/deco/fleche/croix"},
+		{"predicate":{"custom_model_data":1020}, "model": "item/model_custom/game/shop/shieldgame"},
+
 		{"predicate":{"custom_model_data":1403}, "model": "item/model_custom/game/knife/custom/breadbug"},
 		{"predicate":{"custom_model_data":1500}, "model": "item/model_custom/game/flingue/custom/unload/gold"},
 		{"predicate":{"custom_model_data":1501}, "model": "item/model_custom/game/flingue/custom/unload/hitman"},
@@ -67,5 +69,6 @@
 		{"predicate":{"custom_model_data":1503}, "model": "item/model_custom/game/flingue/custom/unload/bfg"},
 		{"predicate":{"custom_model_data":1504}, "model": "item/model_custom/game/flingue/custom/rpg"},
 		{"predicate":{"custom_model_data":1505}, "model": "item/model_custom/game/flingue/custom/unload/revolver"}
+
 	]
 }
