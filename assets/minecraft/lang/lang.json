@@ -996,8 +996,8 @@
     "fr": "(%s restant)"
   },
   "shop.tp.cantbuy": {
-    "en": "You can't buy more teleporter",
-    "fr": "Vous ne pouvez pas acheté plus de Teleporteur"
+    "en": "You can no longer buy teleporters.",
+    "fr": "Vous de pouvez plus acheter de téléporteur."
   },
   "shop.tp.name": {
     "en": "§aRandom teleporter §6(%s §6gold)",
@@ -1018,6 +1018,22 @@
   "shop.buyitem": {
     "en": "§cYou can't buy 2 items at once.",
     "fr": "§cVous ne pouvez pas acheter 2 articles à la fois."
+  },
+  "role.name.murder": {
+    "en": "Murder",
+    "fr": "Meutrier"
+  },
+  "role.name.detective": {
+    "en": "Detective",
+    "fr": "Detective"
+  },
+  "spec.text.mainrole": {
+    "en": "Main Role",
+    "fr": "Role Principal"
+  },
+  "spec.text.power": {
+    "en": "Power",
+    "fr": "Pouvoir"
   },
   "advancement.root.desc": {
     "en": "§7§oDownload and play SuperMurder",
