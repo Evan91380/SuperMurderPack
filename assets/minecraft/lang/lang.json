@@ -955,6 +955,10 @@
     "en": "Gun Selection",
     "fr": "Selection du flingue"
   },
+  "cosmetic.teleport.selection": {
+    "en": "Teleport Selection",
+    "fr": "Selection du teleportation"
+  },
   "cosmetic.hat.selection": {
     "en": "Hat Selection",
     "fr": "Selection du chapeau"
@@ -987,9 +991,21 @@
     "en": "§a3 bullets - .50 A.E. magazine§6(%s §6gold)",
     "fr": "§a3 balles - Chargeur .50 A.E §6(%s §6or)"
   },
+  "shop.tp.canbuy": {
+    "en": "(%s left)",
+    "fr": "(%s restant)"
+  },
+  "shop.tp.cantbuy": {
+    "en": "You can't buy more teleporter",
+    "fr": "Vous ne pouvez pas acheté plus de Teleporteur"
+  },
   "shop.tp.name": {
     "en": "§aRandom teleporter §6(%s §6gold)",
     "fr": "§aTéléporteur aléatoire §6(%s §6or)"
+  },
+  "shop.trap.cantplace": {
+    "en": "You can't place a trap close to another or in the air",
+    "fr": "Vous ne pouvez pas placé un piege proche d'un autre ou dans les air"
   },
   "shop.trap.name": {
     "en": "§aTrap §6(%s §6gold)",
