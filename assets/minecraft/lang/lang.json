@@ -1667,6 +1667,30 @@
     "en": "§aTeleportation",
     "fr": "§aTéléportation"
   },
+  "advancement.teleport.rick.name": {
+    "en": "Rick's Portal gun",
+    "fr": null
+  },
+  "advancement.teleport.rick.desc": {
+    "en": "Teleport just like rick",
+    "fr": null
+  },
+  "inventory.teleport.rick.name": {
+    "en": "Rick's Portal gun",
+    "fr": null
+  },
+  "advancement.teleport.nokia.name": {
+    "en": "Nokia 3310",
+    "fr": null
+  },
+  "advancement.teleport.nokia.desc": {
+    "en": "Call a teleporter",
+    "fr": null
+  },
+  "inventory.teleport.nokia.name": {
+    "en": "Nokia 3310",
+    "fr": null
+  },
   "advancement.easter_egg.infernaton.name": {
     "en": "Infernaton?",
     "fr": null
