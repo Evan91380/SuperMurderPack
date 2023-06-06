@@ -6,6 +6,11 @@
 	"gui_light" : "front",
 	"overrides":[
 		{"predicate":{"custom_model_data":-1403}, "model": "item/model_custom/game/knife/custom/ground/breadbug"},
+
+		{"predicate":{"custom_model_data":-407}, "model": "item/model_custom/game/knife/custom/ground/master_sword"},
+		{"predicate":{"custom_model_data":-406}, "model": "item/model_custom/game/knife/custom/ground/tronconneuse"},
+		{"predicate":{"custom_model_data":-405}, "model": "item/model_custom/game/knife/custom/ground/wolverine"},
+
 		{"predicate":{"custom_model_data":-404}, "model": "item/model_custom/game/knife/custom/ground/bigblade"},
 		{"predicate":{"custom_model_data":-403}, "model": "item/model_custom/game/knife/custom/ground/bread"},
 		{"predicate":{"custom_model_data":-402}, "model": "item/model_custom/game/knife/custom/ground/batarang"},
