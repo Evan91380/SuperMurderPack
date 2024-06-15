@@ -1,24 +1,29 @@
 {
-	"__comment": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
+	"credit": "Designed by Evan91380 with Cubik Studio - https://cubik.studio",
 	"textures": {
 		"texture": "block/credit"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
-			"__comment": "PlaneY2",
-			"from": [ -8, 0, 0 ],
-			"to": [ 24, 0.001, 18 ],
+			"name": "PlaneY2",
+			"from": [-8, 0, 0],
+			"to": [24, 0.001, 18],
 			"faces": {
-				"down": { "uv": [ 0, 7, 16, 16 ], "texture": "#texture" },
-				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+				"up": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"down": {"uv": [0, 7, 16, 16], "texture": "#texture"}
 			}
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation": [101.87, -18.88, 14.48],
+			"translation": [-0.5, -0.25, 0],
+			"scale": [0.64453, 0.64453, 0.64453]
+		},
 		"fixed": {
-			"rotation":  [ 90, 0, 180 ],
-			"translation":  [ 0, 0, -24.08 ],
-			"scale":  [ 3, 3, 3 ]
+			"rotation": [90, 0, 180],
+			"translation": [0, 0, -24.08],
+			"scale": [3, 3, 3]
 		}
 	}
 }

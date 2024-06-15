@@ -96,6 +96,11 @@
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation": [24.35, -38.48, -5.35],
+			"translation": [0, -5.75, 0],
+			"scale": [0.97656, 0.97656, 0.97656]
+		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
 			"translation": [0, 0, -15.75],
@@ -107,6 +112,7 @@
 			"name": "canteen rail",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6]
 		}
 	]

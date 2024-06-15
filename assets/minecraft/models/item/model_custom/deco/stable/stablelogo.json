@@ -1,25 +1,29 @@
 {
-	"__comment": "Designed by Pouliniere with Blockbench",
+	"credit": "Designed by Pouliniere with Blockbench",
 	"textures": {
-		 
 		"texture": "block/stable/stablelogo"
 	},
-	"elements": [ 	 
+	"elements": [
 		{
-			"__comment": "PlaneY2",
-			"from": [ -8, 0, 0 ],
-			"to": [ 24, 0.001, 18 ],
+			"name": "PlaneY2",
+			"from": [-8, 0, 0],
+			"to": [24, 0.001, 18],
 			"faces": {
-				"down": { "uv": [ 0, 7, 16, 16 ], "texture": "#texture" },
-				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+				"up": {"uv": [0, 0, 16, 16], "texture": "#texture"},
+				"down": {"uv": [0, 7, 16, 16], "texture": "#texture"}
 			}
 		}
 	],
 	"display": {
+		"gui": {
+			"rotation": [-96.56, 7.87, -0.33],
+			"translation": [1.5, -0.5, 0],
+			"scale": [0.54297, 0.54297, 0.54297]
+		},
 		"fixed": {
-			"rotation":  [ 90, 0, 180 ],
-			"translation":  [ 0, 0, -24.08 ],
-			"scale":  [ 2, 3, 2 ]
+			"rotation": [90, 0, 180],
+			"translation": [0, 0, -24.08],
+			"scale": [2, 3, 2]
 		}
 	}
 }

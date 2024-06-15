@@ -244,6 +244,11 @@
 			"rotation": [56, 0, 0],
 			"translation": [-24, 9, -7.5]
 		},
+		"gui": {
+			"rotation": [25.63, -35.37, 2.03],
+			"translation": [0.25, -2, 0],
+			"scale": [0.5957, 0.5957, 0.5957]
+		},
 		"head": {
 			"rotation": [0, 180, 0],
 			"translation": [-9, -17.78, -6],
@@ -260,24 +265,28 @@
 			"name": "pied",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6, 7]
 		},
 		{
 			"name": "pied1",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [8, 9, 10, 11]
 		},
 		{
 			"name": "pied2",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [12, 13, 14, 15]
 		},
 		{
 			"name": "siege",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [16, 17]
 		}
 	]

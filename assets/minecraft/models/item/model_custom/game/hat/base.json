@@ -20,6 +20,11 @@
 	],
 	"gui_light": "front",
 	"display": {
+		"gui": {
+			"rotation": [9.97, -37.29, -18.72],
+			"translation": [3, 8, 0],
+			"scale": [0.58203, 0.58203, 0.58203]
+		},
 		"head": {
 			"rotation": [0, 180, 0],
 			"translation": [0, 14, 0],

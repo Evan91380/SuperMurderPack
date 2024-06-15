@@ -9956,6 +9956,11 @@
 	],
 	"gui_light": "front",
 	"display": {
+		"gui": {
+			"rotation": [-155.5, -57.75, 180],
+			"translation": [0.75, 0, 0],
+			"scale": [0.61914, 0.61914, 0.61914]
+		},
 		"head": {
 			"rotation": [0, -90, 0],
 			"translation": [-2.78, 11.7, 0],

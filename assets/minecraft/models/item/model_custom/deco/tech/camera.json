@@ -126,9 +126,9 @@
 			"translation": [0, 0, -3.75]
 		},
 		"gui": {
-			"rotation": [0, 153, 11],
-			"translation": [-4.25, -0.75, 0],
-			"scale": [2, 2, 2]
+			"rotation": [169.76, 39.56, -151.76],
+			"translation": [-3.5, -5, 0],
+			"scale": [1.59375, 1.59375, 1.59375]
 		},
 		"fixed": {
 			"translation": [0, -2, -15.5],
@@ -140,12 +140,14 @@
 			"name": "camera",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5]
 		},
 		{
 			"name": "support",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [6, 7, 8, 9]
 		}
 	]

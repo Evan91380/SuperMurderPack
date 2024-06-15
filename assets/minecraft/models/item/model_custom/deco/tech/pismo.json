@@ -2,7 +2,7 @@
 	"credit": "Made by Poulinière with Blockbench",
 	"textures": {
 		"0": "block/tech/g3",
-		"1": "block/tech/ecran81",
+		"1": "block/tech/ecranpismo",
 		"particle": "block/tech/g3"
 	},
 	"elements": [
@@ -171,6 +171,11 @@
 		"ground": {
 			"translation": [80, 80, 80],
 			"scale": [4, 4, 4]
+		},
+		"gui": {
+			"rotation": [-178.84, 29.66, -164.74],
+			"translation": [0, -0.75, 0],
+			"scale": [0.72656, 0.72656, 0.72656]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
