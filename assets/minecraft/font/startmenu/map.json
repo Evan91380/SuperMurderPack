@@ -1,0 +1,13 @@
+{  
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/map/villa.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "v"
+            ]
+        }
+    ]
+}
