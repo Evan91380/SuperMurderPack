@@ -1,0 +1,76 @@
+{  
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cosmetic/tp.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "t"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/role/tnt.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "s"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/transfer.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "T"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/leather_chestplate.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "k"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/elytra.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/role/glass.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "g"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/role/drugged.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/role/taser.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "f"
+            ]
+        }
+    ]
+}

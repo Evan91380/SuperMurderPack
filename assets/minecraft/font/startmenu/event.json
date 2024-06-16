@@ -1,0 +1,69 @@
+{  
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/ender_pearl.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "s"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/gold_ingot.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "g"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/nether_star.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "R"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/rain_light.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "a"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/orage.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "t"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/event/mine.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "m"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/event/slime.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "S"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/event/sheep.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "e"
+            ]
+        }
+    ]
+}

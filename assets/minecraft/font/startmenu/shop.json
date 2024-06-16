@@ -1,0 +1,49 @@
+{  
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cosmetic/gun.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "g"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/cosmetic/tp.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "t"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/lighter.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "l"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/shield.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "s"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shop/piege_a_ours.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "p"
+            ]
+        }
+    ]
+}
