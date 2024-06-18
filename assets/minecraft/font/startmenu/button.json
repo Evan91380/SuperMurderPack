@@ -1,0 +1,45 @@
+{  
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gold_ingot.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "s"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/map.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "m"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/leather_chestplate.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "r"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:item/orage.png",
+            "ascent": 8,
+            "height": 10,
+            "chars": [
+                "e"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "minecraft:font/button/start.png",
+            "ascent": 10,
+            "height": 16,
+            "chars": [
+                "S"
+            ]
+        }
+    ]
+}
