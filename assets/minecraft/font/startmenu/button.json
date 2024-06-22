@@ -35,8 +35,8 @@
         },{
             "type": "bitmap",
             "file": "minecraft:font/button/start.png",
-            "ascent": 10,
-            "height": 16,
+            "ascent": 14,
+            "height": 24,
             "chars": [
                 "S"
             ]
