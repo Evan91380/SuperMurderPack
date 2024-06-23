@@ -40,6 +40,24 @@
             "chars": [
                 "S"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/button/uncheck.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "0"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/button/check.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "1"
+            ]
         }
     ]
 }
