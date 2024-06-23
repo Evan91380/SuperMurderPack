@@ -132,6 +132,9 @@
 
 		{"predicate":{"custom_model_data":107}, "model": "item/model_custom/deco/other/tire"},
 
+
+		{"predicate":{"custom_model_data":108}, "model": "item/model_custom/deco/other/pig"},
+
 		{"predicate":{"custom_model_data":1111}, "model": "item/model_custom/game/tp/nokia3310"}
 	]
 }
