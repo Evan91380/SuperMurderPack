@@ -8,6 +8,140 @@
             "chars": [
                 "v"
             ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/manoir.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "m"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/magnitude_seven.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "7"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/ocean_lab.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "o"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/scarface_mansion.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "s"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/scarface_garden.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "g"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/catacomb.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "C"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/pacman.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "p"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/murder_island.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "i"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/ice_montains.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "I"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/moon.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "c"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/old_manoir.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "M"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/high_village.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "h"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/richland.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "r"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/office.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "O"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/ranch.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "R"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/military_base.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": [
+                "b"
+            ]
+        }, {
+            "type": "bitmap",
+            "file": "minecraft:font/map/south_mall.png",
+            "ascent": 8,
+            "height": 25,
+            "chars": ["S"]
         }
     ]
 }
