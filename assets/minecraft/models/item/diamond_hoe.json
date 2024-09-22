@@ -134,6 +134,7 @@
 
 
 		{"predicate":{"custom_model_data":108}, "model": "item/model_custom/deco/other/pig"},
+		{"predicate":{"custom_model_data":109}, "model": "item/model_custom/deco/furniture/fusiontable"},
 
 		{"predicate":{"custom_model_data":1111}, "model": "item/model_custom/game/tp/nokia3310"}
 	]
