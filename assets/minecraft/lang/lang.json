@@ -127,11 +127,11 @@
     "en": "§cTime left:",
     "fr": "§cTemps restant:"
   },
-  "text.innocent": {
+  "text.bystander": {
     "en": "§aYou are a bystander",
     "fr": "§aVous êtes un innocent"
   },
-  "text.innocent.goal": {
+  "text.bystander.goal": {
     "en": "§6GOAL: §eStay alive",
     "fr": "§6OBJECTIF: §eSurvivez"
   },
