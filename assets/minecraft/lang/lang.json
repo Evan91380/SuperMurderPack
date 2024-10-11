@@ -267,21 +267,17 @@
     "en": "§4§l§n⚠ Alert ⚠ Half of players disappear!",
     "fr": "§4§l§n⚠ Alerte ⚠ La moitié des joueurs disparaissent!"
   },
-  "text.murder.knife1": {
-    "en": "§eThe murderer will receive his knife in",
-    "fr": "§eLe meurtrier recevra son couteau dans"
+  "text.game.get_knife_in": {
+    "en": "The murderer will receive his knife in %s seconds.",
+    "fr": "Le meurtrier recevra son couteau dans %s secondes."
   },
-  "text.murder.knife1s1": {
-    "en": "§eseconds.",
-    "fr": "§esecondes."
+  "text.game.get_knife_in2": {
+    "en": "The murderer will receive his knife in %s second.",
+    "fr": "Le meurtrier recevra son couteau dans %s seconde."
   },
-  "text.murder.knife1s2": {
-    "en": "§esecond.",
-    "fr": "§eseconde."
-  },
-  "text.murder.knife2": {
-    "en": "§eThe murderer has received his knife!",
-    "fr": "§eLe meurtrier a reçu son couteau!"
+  "text.game.get_knife": {
+    "en": "The murderer has received his knife!",
+    "fr": "Le meurtrier a reçu son couteau!"
   },
   "text.60left": {
     "en": "60 seconds left",
