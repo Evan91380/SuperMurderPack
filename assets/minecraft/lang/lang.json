@@ -1039,291 +1039,291 @@
     "en": "§7§oDownload and play SuperMurder",
     "fr": "§7§oTélécharger et jouer à SuperMurder"
   },
-  "advancement.adv1.name": {
+  "advancement.first_game.name": {
     "en": "§3§lHere we go!",
     "fr": "§3§lC'est parti !"
   },
-  "advancement.adv1.desc": {
+  "advancement.first_game.desc": {
     "en": "§7§oPlay a game of SuperMurder",
     "fr": "§7§oJouer une partie de SuperMurder"
   },
-  "advancement.adv2.name": {
+  "advancement.detective.first_game.name": {
     "en": "§lA crime? Let's Go!",
     "fr": "§lUn crime? Allons-y!"
   },
-  "advancement.adv2.desc": {
+  "advancement.detective.first_game.desc": {
     "en": "§7§oPlay as the detective",
     "fr": "§7§oJouer en tant que détective"
   },
-  "advancement.adv3.name": {
+  "advancement.detective.win_first_game.name": {
     "en": "§lJustice is done.",
     "fr": "§lJustice est rendu"
   },
-  "advancement.adv3.desc": {
+  "advancement.detective.win_first_game.desc": {
     "en": "§7§oWin a game as the detective.",
     "fr": "§7§oGagner en tant que détective."
   },
-  "advancement.adv4.name": {
+  "advancement.detective.win_five_game.name": {
     "en": "§lJustice always triumph",
     "fr": "§lLa justice triomphe toujours"
   },
-  "advancement.adv4.desc": {
+  "advancement.detective.win_five_game.desc": {
     "en": "§7§oWin 5 games as the detective.",
     "fr": "§7§oGagner 5 parties en tant que détective"
   },
-  "advancement.adv5.name": {
+  "advancement.detective.win_ten_game.name": {
     "en": "§lThe vigilente",
     "fr": "§lLe justicier"
   },
-  "advancement.adv5.desc": {
+  "advancement.detective.win_ten_game.desc": {
     "en": "§7§oWin 10 games as the detective.",
     "fr": "§7§oGagner 10 parties en tant que détective."
   },
-  "advancement.adv6.name": {
+  "advancement.detective.win_fifty_game.name": {
     "en": "§lJudge",
     "fr": "§lJuge"
   },
-  "advancement.adv6.desc": {
+  "advancement.detective.win_fifty_game.desc": {
     "en": "§7§oWin 50 games as the detective.",
     "fr": "§7§oGagner 50 parties en tant que détective."
   },
-  "advancement.adv7.name": {
+  "advancement.detective.win_hundred_game.name": {
     "en": "§lI'm the law",
     "fr": "§lJe suis la loi"
   },
-  "advancement.adv7.desc": {
+  "advancement.detective.win_hundred_game.desc": {
     "en": "§7§oWin 100 games as the detective.",
     "fr": "§7§oGagner 100 parties en tant que détective."
   },
-  "advancement.adv8.name": {
+  "advancement.detective.kill_one_innocent.name": {
     "en": "§lOops!",
     "fr": "§lOups!"
   },
-  "advancement.adv8.desc": {
+  "advancement.detective.kill_one_innocent.desc": {
     "en": "§7§oKill a bystander",
     "fr": "§7§oTuer un innocent"
   },
-  "advancement.adv9.name": {
+  "advancement.detective.kill_five_innocent.name": {
     "en": "§lCollateral victim",
     "fr": "§lVictime collatérale"
   },
-  "advancement.adv9.desc": {
+  "advancement.detective.kill_five_innocent.desc": {
     "en": "§7§oKill 5 bystanders",
     "fr": "§7§oTuer 5 innocents"
   },
-  "advancement.adv10.name": {
+  "advancement.detective.kill_ten_innocent.name": {
     "en": "§lCorrupt detective",
     "fr": "§lDétective corrompu"
   },
-  "advancement.adv10.desc": {
+  "advancement.detective.kill_ten_innocent.desc": {
     "en": "§7§oKill 10 bystanders",
     "fr": "§7§oTuer 10 innocents"
   },
-  "advancement.adv11.name": {
+  "advancement.detective.kill_fifty_innocent.name": {
     "en": "§lFallen detective",
     "fr": "§lDétective déchu"
   },
-  "advancement.adv11.desc": {
+  "advancement.detective.kill_fifty_innocent.desc": {
     "en": "§7§oKill 50 bystanders",
     "fr": "§7§oTuer 50 innocents"
   },
-  "advancement.adv12.name": {
+  "advancement.detective.kill_hundred_innocent.name": {
     "en": "§lA second murderer",
     "fr": "§lUn second meurtrier!"
   },
-  "advancement.adv12.desc": {
+  "advancement.detective.kill_hundred_innocent.desc": {
     "en": "§7§oKill 100 bystanders",
     "fr": "§7§oTuer 100 innocents"
   },
-  "advancement.adv13.name": {
+  "advancement.detective.lose.name": {
     "en": "§lOne day justice will triumph",
     "fr": "§lUn jour la justice triomphera"
   },
-  "advancement.adv13.desc": {
+  "advancement.detective.lose.desc": {
     "en": "§7§oLose a game as the detective.",
     "fr": "§7§oPerdre une partie en tant que détective."
   },
-  "advancement.adv14.name": {
+  "advancement.detective.explosion.name": {
     "en": "§lA bad for a good",
     "fr": "§lUn mal pour un bien"
   },
-  "advancement.adv14.desc": {
+  "advancement.detective.explosion.desc": {
     "en": "§7§oKill the murderer by killing the suicidal.",
-    "fr": "§7§oTuer le meurtrier en tuant de suicidaire."
+    "fr": "§7§oTuer le meurtrier en tuant le suicidaire."
   },
-  "advancement.adv15.name": {
+  "advancement.detective.priority.name": {
     "en": "§lPriority target",
     "fr": "§lCible prioritaire"
   },
-  "advancement.adv15.desc": {
+  "advancement.detective.priority.desc": {
     "en": "§7§oBe the first victim as the detective.",
     "fr": "§7§oEtre la première victime en tant que détective."
   },
-  "advancement.adv16.name": {
+  "advancement.murder.first_game.name": {
     "en": "§lIt's showtime!",
     "fr": "§lC'est l'heure du spectacle !"
   },
-  "advancement.adv16.desc": {
+  "advancement.murder.first_game.desc": {
     "en": "§7§oPlay as the murderer.",
     "fr": "§7§oJouer en tant que meurtrier"
   },
-  "advancement.adv17.name": {
+  "advancement.murder.win_first_game.name": {
     "en": "§lBeginner",
     "fr": "§lDébutant"
   },
-  "advancement.adv17.desc": {
+  "advancement.murder.win_first_game.desc": {
     "en": "§7§oWin a game as the murderer.",
     "fr": "§7§oGagner une partie en tant que meurtrier."
   },
-  "advancement.adv18.name": {
+  "advancement.murder.win_five_game.name": {
     "en": "§lRegular",
     "fr": "§lHabitué"
   },
-  "advancement.adv18.desc": {
+  "advancement.murder.win_five_game.desc": {
     "en": "§7§oWin 5 game as the murderer.",
     "fr": "§7§oGagner 5 parties en tant que meurtrier."
   },
-  "advancement.adv19.name": {
+  "advancement.murder.win_ten_game.name": {
     "en": "§lVeterant",
     "fr": "§lVétérant"
   },
-  "advancement.adv19.desc": {
+  "advancement.murder.win_ten_game.desc": {
     "en": "§7§oWin 10 game as the murderer.",
     "fr": "§7§oGagner 10 parties en tant que meurtrier."
   },
-  "advancement.adv20.name": {
+  "advancement.murder.win_fifty_game.name": {
     "en": "§lProfessional",
     "fr": "§lProfessionnel"
   },
-  "advancement.adv20.desc": {
+  "advancement.murder.win_fifty_game.desc": {
     "en": "§7§oWin 50 game as the murderer.",
     "fr": "§7§oGagner 50 parties en tant que meurtrier."
   },
-  "advancement.adv21.name": {
+  "advancement.murder.win_hundred_game.name": {
     "en": "§lMonster",
     "fr": "§lMonstre"
   },
-  "advancement.adv21.desc": {
+  "advancement.murder.win_hundred_game.desc": {
     "en": "§7§oWin 100 game as the murderer.",
     "fr": "§7§oGagner 100 parties en tant que meurtrier."
   },
-  "advancement.adv22.name": {
+  "advancement.murder.kill_first_player.name": {
     "en": "§lCriminal",
     "fr": "§lCriminel"
   },
-  "advancement.adv22.desc": {
+  "advancement.murder.kill_first_player.desc": {
     "en": "§7§oKill a player.",
     "fr": "§7§oTuer un joueur."
   },
-  "advancement.adv23.name": {
+  "advancement.murder.kill_ten_player.name": {
     "en": "§lKiller",
     "fr": "§lTueur"
   },
-  "advancement.adv23.desc": {
+  "advancement.murder.kill_ten_player.desc": {
     "en": "§7§oKill 10 players.",
     "fr": "§7§oTuer 10 joueurs."
   },
-  "advancement.adv24.name": {
+  "advancement.murder.kill_fifty_player.name": {
     "en": "§lAssassin",
     "fr": "§lAssassin"
   },
-  "advancement.adv24.desc": {
+  "advancement.murder.kill_fifty_player.desc": {
     "en": "§7§oKill 50 players.",
     "fr": "§7§oTuer 50 joueurs."
   },
-  "advancement.adv25.name": {
+  "advancement.murder.kill_hundred_player.name": {
     "en": "§lSerial Killer",
     "fr": "§lTueur en série"
   },
-  "advancement.adv25.desc": {
+  "advancement.murder.kill_hundred_player.desc": {
     "en": "§7§oKill 100 players.",
     "fr": "§7§oTuer 100 joueurs."
   },
-  "advancement.adv26.name": {
+  "advancement.murder.kill_five_hundred_player.name": {
     "en": "§lDemon",
     "fr": "§lDémon"
   },
-  "advancement.adv26.desc": {
+  "advancement.murder.kill_five_hundred_player.desc": {
     "en": "§7§oKill 500 players.",
     "fr": "§7§oTuer 500 joueurs."
   },
-  "advancement.adv27.name": {
+  "advancement.murder.easy_target.name": {
     "en": "§lEasy target",
     "fr": "§lCible facile"
   },
-  "advancement.adv27.desc": {
+  "advancement.murder.easy_target.desc": {
     "en": "§7§oKill the detective first.",
     "fr": "§7§oTuer le détective en premier."
   },
-  "advancement.adv28.name": {
+  "advancement.murder.nice_try.name": {
     "en": "§lNice try!",
     "fr": "§lBien essayé!"
   },
-  "advancement.adv28.desc": {
+  "advancement.murder.nice_try.desc": {
     "en": "§7§oKill a bystander carrying a weapon in his hand.",
     "fr": "§7§oTuer un innocent tenant une arme dans sa main."
   },
-  "advancement.adv29.name": {
+  "advancement.murder.damn_justice.name": {
     "en": "§lDamn justice!",
     "fr": "§lFichu justice!"
   },
-  "advancement.adv29.desc": {
+  "advancement.murder.damn_justice.desc": {
     "en": "§7§oBe killed by the detective even before killing someone.",
     "fr": "§7§oEtre tué par le détective avant d'avoir pu tuer quelqu'un."
   },
-  "advancement.adv30.name": {
+  "advancement.bystander.first_game.name": {
     "en": "§lHELP!",
     "fr": "§lA L'AIDE!"
   },
-  "advancement.adv30.desc": {
+  "advancement.bystander.first_game.desc": {
     "en": "§7§oPlay as bystander",
     "fr": "§7§oJouer en tant qu'innocent"
   },
-  "advancement.adv31.name": {
+  "advancement.bystander.shit.name": {
     "en": "§lAh shit, here we go again...",
     "fr": "§lEt merde, nous y revoilà...."
   },
-  "advancement.adv31.desc": {
+  "advancement.bystander.shit.desc": {
     "en": "§7§oPlay 10 games in a row as a bystander.",
     "fr": "§7§oEtre innocent 10 partie d'affilée"
   },
-  "advancement.adv32.name": {
+  "advancement.jump.first_time.name": {
     "en": "§lFinish the jump!",
     "fr": "§lFinir le parcours!"
   },
-  "advancement.adv32.desc": {
+  "advancement.jump.first_time.desc": {
     "en": "§7§oGo to the jump and finish it!",
     "fr": "§7§oAller au parcours et le finir!"
   },
-  "advancement.adv33.name": {
+  "advancement.jump.five_time.name": {
     "en": "§lGG!",
     "fr": "§lGG!"
   },
-  "advancement.adv33.desc": {
+  "advancement.jump.five_time.desc": {
     "en": "§7§oFinish the jump 5 time!",
     "fr": "§7§oFinir pour la 5éme fois le parcours"
   },
-  "advancement.adv34.name": {
+  "advancement.jump.ten_time.name": {
     "en": "§l10 Times!",
     "fr": "§l10 fois!"
   },
-  "advancement.adv34.desc": {
+  "advancement.jump.ten_time.desc": {
     "en": "§7§oWhy Not?",
     "fr": "§7§oPourquoi pas?"
   },
-  "advancement.adv35.name": {
+  "advancement.jump.fifty_time.name": {
     "en": "§l50?!",
     "fr": "§l50?!"
   },
-  "advancement.adv35.desc": {
+  "advancement.jump.fifty_time.desc": {
     "en": "§7§oYou really haven't got friends?",
     "fr": "§7§oTu n'a vraiment pas d'amis?"
   },
-  "advancement.adv36.name": {
+  "advancement.jump.hundred_time.name": {
     "en": "§lSo...",
     "fr": "§lDonc..."
   },
-  "advancement.adv36.desc": {
+  "advancement.jump.hundred_time.desc": {
     "en": "§7§oYou should REALLY close minecraft and go outside to get some friend!",
     "fr": "§7§oTu devrais vraiment fermer minecraft et aller dehors te faire des amis!"
   },
