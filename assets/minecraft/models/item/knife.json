@@ -1,0 +1,124 @@
+{
+    "parent": "minecraft:item/handheld",
+    "gui_light": "front",
+    "textures": {
+      "layer0": "minecraft:item/carrot_on_a_stick"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": -1403
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/ground/breadbug"
+      },
+      {
+        "predicate": {
+          "custom_model_data": -407
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/ground/master_sword"
+      },
+      {
+        "predicate": {
+          "custom_model_data": -406
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/ground/tronconneuse"
+      },
+      {
+        "predicate": {
+          "custom_model_data": -405
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/ground/wolverine"
+      },
+      {
+        "predicate": {
+          "custom_model_data": -404
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/ground/bigblade"
+      },
+      {
+        "predicate": {
+          "custom_model_data": -403
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/ground/bread"
+      },
+      {
+        "predicate": {
+          "custom_model_data": -402
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/ground/batarang"
+      },
+      {
+        "predicate": {
+          "custom_model_data": -401
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/ground/hiddenblade"
+      },
+      {
+        "predicate": {
+          "custom_model_data": -400
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/ground/gold"
+      },
+      {
+        "predicate": {
+          "custom_model_data": -1
+        },
+        "model": "minecraft:item/model_custom/game/knife/knife_on_ground"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 400
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/gold"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 401
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/hiddenblade"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 402
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/batarang"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 403
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/bread"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 404
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/bigblade"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 405
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/wolverine"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 406
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/tronconneuse"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 407
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/master_sword"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1403
+        },
+        "model": "minecraft:item/model_custom/game/knife/custom/breadbug"
+      }
+    ]
+  }
+  

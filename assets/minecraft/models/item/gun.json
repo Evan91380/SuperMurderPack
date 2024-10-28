@@ -1,0 +1,28 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+	"gui_light" : "front",
+	"overrides":[
+		{"predicate":{"custom_model_data":10}, "model": "item/model_custom/game/flingue/gun"},
+		{"predicate":{"custom_model_data":11}, "model": "item/model_custom/game/flingue/gun2"},
+		{"predicate":{"custom_model_data":12}, "model": "item/model_custom/game/flingue/balle"},
+		{"predicate":{"custom_model_data":13}, "model": "item/model_custom/game/flingue/chargeur"},
+	
+		{"predicate":{"custom_model_data":500}, "model": "item/model_custom/game/flingue/custom/gold"},
+		{"predicate":{"custom_model_data":501}, "model": "item/model_custom/game/flingue/custom/hitman"},
+		{"predicate":{"custom_model_data":502}, "model": "item/model_custom/game/flingue/custom/numberone"},
+		{"predicate":{"custom_model_data":503}, "model": "item/model_custom/game/flingue/custom/bfg"},
+		{"predicate":{"custom_model_data":504}, "model": "item/model_custom/game/flingue/custom/rpg"},
+		{"predicate":{"custom_model_data":505}, "model": "item/model_custom/game/flingue/custom/revolver"},
+
+		{"predicate":{"custom_model_data":1500}, "model": "item/model_custom/game/flingue/custom/unload/gold"},
+		{"predicate":{"custom_model_data":1501}, "model": "item/model_custom/game/flingue/custom/unload/hitman"},
+		{"predicate":{"custom_model_data":1502}, "model": "item/model_custom/game/flingue/custom/unload/numberone"},
+		{"predicate":{"custom_model_data":1503}, "model": "item/model_custom/game/flingue/custom/unload/bfg"},
+		{"predicate":{"custom_model_data":1504}, "model": "item/model_custom/game/flingue/custom/rpg"},
+		{"predicate":{"custom_model_data":1505}, "model": "item/model_custom/game/flingue/custom/unload/revolver"}
+
+	]
+}
