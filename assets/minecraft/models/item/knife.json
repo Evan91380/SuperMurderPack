@@ -1,124 +1,129 @@
 {
-    "parent": "minecraft:item/handheld",
-    "gui_light": "front",
-    "textures": {
-      "layer0": "minecraft:item/carrot_on_a_stick"
+  "parent": "minecraft:item/handheld",
+  "gui_light": "front",
+  "textures": {
+    "layer0": "minecraft:item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": -1403
+      },
+      "model": "minecraft:item/model_custom/game/knife/custom/ground/breadbug"
     },
-    "overrides": [
-      {
-        "predicate": {
-          "custom_model_data": -1403
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/ground/breadbug"
+    {
+      "predicate": {
+        "custom_model_data": -407
       },
-      {
-        "predicate": {
-          "custom_model_data": -407
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/ground/master_sword"
+      "model": "minecraft:item/model_custom/game/knife/custom/ground/master_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": -406
       },
-      {
-        "predicate": {
-          "custom_model_data": -406
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/ground/tronconneuse"
+      "model": "minecraft:item/model_custom/game/knife/custom/ground/tronconneuse"
+    },
+    {
+      "predicate": {
+        "custom_model_data": -405
       },
-      {
-        "predicate": {
-          "custom_model_data": -405
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/ground/wolverine"
+      "model": "minecraft:item/model_custom/game/knife/custom/ground/wolverine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": -404
       },
-      {
-        "predicate": {
-          "custom_model_data": -404
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/ground/bigblade"
+      "model": "minecraft:item/model_custom/game/knife/custom/ground/bigblade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": -403
       },
-      {
-        "predicate": {
-          "custom_model_data": -403
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/ground/bread"
+      "model": "minecraft:item/model_custom/game/knife/custom/ground/bread"
+    },
+    {
+      "predicate": {
+        "custom_model_data": -402
       },
-      {
-        "predicate": {
-          "custom_model_data": -402
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/ground/batarang"
+      "model": "minecraft:item/model_custom/game/knife/custom/ground/batarang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": -401
       },
-      {
-        "predicate": {
-          "custom_model_data": -401
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/ground/hiddenblade"
+      "model": "minecraft:item/model_custom/game/knife/custom/ground/hiddenblade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": -400
       },
-      {
-        "predicate": {
-          "custom_model_data": -400
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/ground/gold"
+      "model": "minecraft:item/model_custom/game/knife/custom/ground/gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": -1
       },
-      {
-        "predicate": {
-          "custom_model_data": -1
-        },
-        "model": "minecraft:item/model_custom/game/knife/knife_on_ground"
+      "model": "minecraft:item/model_custom/game/knife/knife_on_ground"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 0
       },
-      {
-        "predicate": {
-          "custom_model_data": 400
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/gold"
+      "model": "item/model_custom/game/knife/knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 400
       },
-      {
-        "predicate": {
-          "custom_model_data": 401
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/hiddenblade"
+      "model": "minecraft:item/model_custom/game/knife/custom/gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 401
       },
-      {
-        "predicate": {
-          "custom_model_data": 402
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/batarang"
+      "model": "minecraft:item/model_custom/game/knife/custom/hiddenblade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 402
       },
-      {
-        "predicate": {
-          "custom_model_data": 403
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/bread"
+      "model": "minecraft:item/model_custom/game/knife/custom/batarang"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 403
       },
-      {
-        "predicate": {
-          "custom_model_data": 404
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/bigblade"
+      "model": "minecraft:item/model_custom/game/knife/custom/bread"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 404
       },
-      {
-        "predicate": {
-          "custom_model_data": 405
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/wolverine"
+      "model": "minecraft:item/model_custom/game/knife/custom/bigblade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 405
       },
-      {
-        "predicate": {
-          "custom_model_data": 406
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/tronconneuse"
+      "model": "minecraft:item/model_custom/game/knife/custom/wolverine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 406
       },
-      {
-        "predicate": {
-          "custom_model_data": 407
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/master_sword"
+      "model": "minecraft:item/model_custom/game/knife/custom/tronconneuse"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 407
       },
-      {
-        "predicate": {
-          "custom_model_data": 1403
-        },
-        "model": "minecraft:item/model_custom/game/knife/custom/breadbug"
-      }
-    ]
-  }
-  
+      "model": "minecraft:item/model_custom/game/knife/custom/master_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1403
+      },
+      "model": "minecraft:item/model_custom/game/knife/custom/breadbug"
+    }
+  ]
+}

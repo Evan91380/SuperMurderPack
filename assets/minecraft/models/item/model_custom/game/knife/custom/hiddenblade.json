@@ -1031,8 +1031,8 @@
 			"translation":  [ -0.695, 0, 0 ]
 		},
 		"head": {
-			"rotation":  [ -160, 0, 180 ],
-			"translation":  [ 0, 4.1739, -6.256 ]
+			"rotation":  [ 0, 0, -90 ],
+			"translation":  [ 0, 0, 0 ]
 		},
 		"ground": {
 			"scale":  [ 0.0001, 0.0001, 0.0001 ]
